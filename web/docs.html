@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOCS | Quran API</title>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="cursor-dot"></div>
+    <div class="cursor-outline"></div>
+
+    <div class="page-wrapper">
+        <header>
+            <a href="index.html" class="logo-wrapper">
+                <div class="logo-circle"></div>
+                <span class="logo-text">DamarCreative</span>
+            </a>
+            <nav class="nav-menu">
+                <a href="index.html" class="nav-link">Home</a>
+                <a href="quran.html" class="nav-link">Quran</a>
+                <a href="docs.html" class="nav-link active">API Docs</a>
+            </nav>
+            <div class="header-location">
+                <div><span class="location-text">City, Province</span> <span id="clock" class="clock">--:--</span></div>
+                <div class="country">Country</div>
+            </div>
+        </header>
+
+        <main class="page-content">
+            <h1 class="page-title">
+                <svg class="title-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 204.21 204.21">
+                    <g fill="currentColor">
+                        <rect x="82.1" width="40" height="204.21" />
+                        <rect x="82.1" y="0" width="40" height="204.21"
+                            transform="translate(-42.29 102.1) rotate(-45)" />
+                        <rect x="0" y="82.1" width="204.21" height="40" />
+                        <rect x="0" y="82.1" width="204.21" height="40"
+                            transform="translate(-42.29 102.1) rotate(-45)" />
+                    </g>
+                </svg>DOC<span class="accent">.</span>
+            </h1>
+
+            <div class="about-grid">
+                <div class="about-intro">
+                    <p>Designed for developers who need a reliable, high-performance, and easy-to-use Quran Data source.
+                        Built with In-Memory Caching technology for blazing fast response times.</p>
+
+                    <p>Whether you are building a mobile app, web application, or analysis tool, our API provides clean
+                        JSON data for all 114 Surahs, including multiple translations and Arabic text.</p>
+
+                    <p>Base URL:<br> <code
+                            style="color: var(--accent-green); font-size: 1rem;">https://damarcreative.my.id/QuranAPI</code>
+                    </p>
+                </div>
+
+                <div>
+                    <!-- Endpoint 1 -->
+                    <div class="list-item">
+                        <h3>List All Surahs</h3>
+                        <p>Retrieve metadata for all 114 Surahs.</p>
+                        <div
+                            style="margin-top: 1rem; font-family: monospace; color: var(--text-color); background: rgba(255,255,255,0.05); padding: 0.5rem; border-radius: 4px;">
+                            GET /surah-info.json</div>
+                    </div>
+
+                    <!-- Endpoint 2 -->
+                    <div class="list-item">
+                        <h3>Get Arabic Text</h3>
+                        <p>Fetch the Utmani Script for a specific Surah.</p>
+                        <div
+                            style="margin-top: 1rem; font-family: monospace; color: var(--text-color); background: rgba(255,255,255,0.05); padding: 0.5rem; border-radius: 4px;">
+                            GET /surah/{number}/arabic.json</div>
+                    </div>
+
+                    <!-- Endpoint 3 -->
+                    <div class="list-item">
+                        <h3>Get Translation</h3>
+                        <p>Fetch translation in various languages (e.g., en-sahih, id-indonesian).</p>
+                        <div
+                            style="margin-top: 1rem; font-family: monospace; color: var(--text-color); background: rgba(255,255,255,0.05); padding: 0.5rem; border-radius: 4px;">
+                            GET /surah/{number}/{edition}.json</div>
+                    </div>
+
+                    <!-- Features/Skills Section Style -->
+                    <div class="skills-section">
+                        <h4>Available Editions</h4>
+                        <div class="skills-list">
+                            <span class="skill-tag">en-sahih</span>
+                            <span class="skill-tag">id-indonesian</span>
+                            <span class="skill-tag">ar-jalalayn</span>
+                            <span class="skill-tag">fr-hamidullah</span>
+                            <span class="skill-tag">ru-kuliev</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </main>
+    </div>
+
+    <footer id="footer-marquee"></footer>
+
+    <script src="scripts.js"></script>
+    <script>
+        // Cursor logic for this page
+        const cursorOutline = document.querySelector('.cursor-outline');
+        if (cursorOutline) {
+            document.querySelectorAll('a, button, .list-item').forEach(el => {
+                el.addEventListener('mouseenter', () => {
+                    cursorOutline.style.transform = 'translate(-50%, -50%) scale(1.5)';
+                    cursorOutline.style.backgroundColor = 'rgba(255, 255, 255, 0.1)';
+                    cursorOutline.style.borderColor = 'transparent';
+                });
+                el.addEventListener('mouseleave', () => {
+                    cursorOutline.style.transform = 'translate(-50%, -50%) scale(1)';
+                    cursorOutline.style.backgroundColor = 'transparent';
+                    cursorOutline.style.borderColor = 'var(--text-color)';
+                });
+            });
+        }
+    </script>
+</body>
+
+</html>
