@@ -1,0 +1,914 @@
+{
+  "surah": 26,
+  "translation": "so-abduh",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "Waxay ku Tusin Mucjisada Quraanka sida soo Hor martay."
+    },
+    {
+      "number": 2,
+      "text": "Taasi waa Aayadihii Kitaabka Cad."
+    },
+    {
+      "number": 3,
+      "text": "Waxaadna u Dhawdahay Nabiyow inaad Halaagto Naftaada Haddayna Rumayn Xaqa."
+    },
+    {
+      "number": 4,
+      "text": "Haddaan Doono Waxaan kaga soo Dejinaynaa Korkooda Samada Aayad oy Noqoto Luquntoodu Miday u Khushuucdo."
+    },
+    {
+      "number": 5,
+      "text": "Waxkasta oo Quraana oo Uga Yimaadda Xagga Eebaha Raxmaana oo soo Darriyo (Cusboonaada) waxay ahaan kuwo ka Jeedsada."
+    },
+    {
+      "number": 6,
+      "text": "Waxayna Beeniyeen (Xaqa) waxaase u Imaan Warka waxay ku Jees Jeesayeen."
+    },
+    {
+      "number": 7,
+      "text": "Miyeyna Arkayn Dhulka Inaan ka soo Bixinno Nooc kasta oo Fiican."
+    },
+    {
+      "number": 8,
+      "text": "Taasna waxaa ku sugan Aayad Badankooduna ma aha Mid Rumeyn (Xaqa)."
+    },
+    {
+      "number": 9,
+      "text": "Eebahaana Waa Adkaade Naxariista."
+    },
+    {
+      "number": 10,
+      "text": "(Xusuuso) markuu ugu Yeedhay Eebahaa (Nabi) Muuse inuu Aado Qoomka Daalimiinta ah."
+    },
+    {
+      "number": 11,
+      "text": "Qoomka Fircoon, Maydhawrsadaan."
+    },
+    {
+      "number": 12,
+      "text": "Wuxuu Yidhi (Nabi) Muuse Eebow waxaan ka Cabsan inay I beeniyaan."
+    },
+    {
+      "number": 13,
+      "text": "Ooy Cidhiidhyanto Laabtaydu Siina Daysmin Carrabkaygu ee Dir la Jirkayga Haaruun."
+    },
+    {
+      "number": 14,
+      "text": "Waxayna igu Leeyihiin Dambi (Godob) waxaana ka Cabsan inay I dilaan."
+    },
+    {
+      "number": 15,
+      "text": "Wuxuu Yidhi Ilaahay saas ma aha ee La aada Aayaadkanaga, Anagaa Idinla Jirra Maqlina."
+    },
+    {
+      "number": 16,
+      "text": "ee u Taga Firecoon una Dhaha Annagu waxaan Nahay Rasuulka Eebaha Caalamka."
+    },
+    {
+      "number": 17,
+      "text": "Ee Dir «u Ogolow» Banii Israa'iil la jirkannaga."
+    },
+    {
+      "number": 18,
+      "text": "Wuxuu Yidhi (Firecoon) Miyaanaan kugu Barbaarinin Dhexdanada Adoo Yar oodan ku Nagaanin Dhexdanada Cimrigaaga Sanooyin."
+    },
+    {
+      "number": 19,
+      "text": "Ood Fashay Arrintaad Fashay Adoo Diidan (Sama Falkii)."
+    },
+    {
+      "number": 20,
+      "text": "Wuxuu Yidhi (Nabi) Muuse waan Falay Anoon Wax kasayn."
+    },
+    {
+      "number": 21,
+      "text": "Waana Idinka Cararay Markaan Idinka Cabsaday Markaasuu Eebe I siiyey Nabinimo, Igana Yeelay kuwa La Diray (Rasuul)."
+    },
+    {
+      "number": 22,
+      "text": "Taasise ma Nicma aad igu Mannaysanbaa Haddaad Addoonsatay Banii Israa'iil."
+    },
+    {
+      "number": 23,
+      "text": "Fircoon wuxuun Yidhi waa maxay Eebaha Caalamka."
+    },
+    {
+      "number": 24,
+      "text": "Wuxuu Yidhi (Nabi) Muuse waa Eebaha Samooyinka iyo Waxa u Dhaxeeya haddaad wax Yaqiinsanaysaan (Rumaynaysaan)."
+    },
+    {
+      "number": 25,
+      "text": "Wuxuu ku Yidhi (Fircoon) kuwii Gaararkiisa ahaa War ma Maqlaysaan."
+    },
+    {
+      "number": 26,
+      "text": "Wuxuu Yidhi Nabi Muuse waa Eebihiin iyo Eebaha Aabayaalkiinii Hore."
+    },
+    {
+      "number": 27,
+      "text": "Wuxuu Yidhi Fircoon Rasuulkiinna laydiin soo diray waa Waalanyahay."
+    },
+    {
+      "number": 28,
+      "text": "Wuxuu Yidhi Nabi Muuse waa Eebaha Bari iyo Galbeed iyo Waxa u Dhaxeeya Haddaad wax kasaysaan."
+    },
+    {
+      "number": 29,
+      "text": "Wuxuu Yidhi Fircoon haddaad Yeelato Ilaah iga soo Hadhay waxaan kaa Yeeli kuwa Xabbisan."
+    },
+    {
+      "number": 30,
+      "text": "Wuxuu Yidhi Nabi Muuse Haddaan kuula Imaaddo wax Cadna."
+    },
+    {
+      "number": 31,
+      "text": "Wuxuu Yidhi Fircoon la Imow Haddaad Run Sheegi."
+    },
+    {
+      "number": 32,
+      "text": "Markaasuu Tuuray Nabi Muuse Ushiishii waxayna Noqotay Mas Muuqda."
+    },
+    {
+      "number": 33,
+      "text": "Wuxuuna Siibay Gacantiisa waxayna ahaatay mid u Cad Dadka Dayi."
+    },
+    {
+      "number": 34,
+      "text": "Wuxuu ku yidhi (Fircoon) kuwii Gaararkiisa ahaa kani waa Sixirre Xeel Dheer."
+    },
+    {
+      "number": 35,
+      "text": "Doonina Inuu Idinkaga Bixiyo Dhulkiinna Sixirkiisa ee Maxaad Faraysaan."
+    },
+    {
+      "number": 36,
+      "text": "Waxay Dheheen Dib u Dhig Isaga iyo Walaalkiis (Xaalkooda) una Dir Magaalooyinka kuwo soo Kulmiya."
+    },
+    {
+      "number": 37,
+      "text": "Ha kuu Keeneen Sixirre kasta oo Xeel Dheer."
+    },
+    {
+      "number": 38,
+      "text": "Waxaana Loo kulmiyey Saaxiriintii Imaatin Maalin la Yaqaan."
+    },
+    {
+      "number": 39,
+      "text": "Waxaana Loo Yidhi Dadkii ma Kulmaysaan."
+    },
+    {
+      "number": 40,
+      "text": "Inaan Raacno Saaxiriinta Hadday Adkaadaan."
+    },
+    {
+      "number": 41,
+      "text": "Markay Yimaaddeen Saaxiriintii waxay ku Dheheen Fircoon Ujuuro ma Leenahay haddaan Adkaanno."
+    },
+    {
+      "number": 42,
+      "text": "Wuxuuna Yidhi haa Waxaadna Noqonaysaan kuwa ii dhow."
+    },
+    {
+      "number": 43,
+      "text": "Wuxuu ku Yidhi (Nabi) Muuse Tuura waxaad Tuuraysaan."
+    },
+    {
+      "number": 44,
+      "text": "Waxayna Tuureen Xadhkahoodii iyo Ulahoodii waxayna Dheheen Sharafta Fircoon yaan ku dhaarannaye Anagaa adkaan."
+    },
+    {
+      "number": 45,
+      "text": "Markaasuu Tuuray (Nabi) Muuse Ushiisii waxayna Ahaatay mid Gurata waxay Dhoodhoobeen."
+    },
+    {
+      "number": 46,
+      "text": "waxaana la Riday Saaxiriintii Sujuud Darteed."
+    },
+    {
+      "number": 47,
+      "text": "Waxayna Dheheen waxaan Rumaynay Eebaha Caalamka."
+    },
+    {
+      "number": 48,
+      "text": "Eebaha (Nabi) Muuse iyo (Nabi) Haaruun."
+    },
+    {
+      "number": 49,
+      "text": "Wuxuu yidhi Fircoon Miyaad Rumeyseen Muuse ka Hor Idankayga, Isagu waa kan idiinku wayn ee idin Baray Sixirka waadse Ogaan doontaan, waxaana u Goyn Gacmahiinna iyo Lugahiinna Isdhaaf, waana idin Wadhi Dhammaantiin."
+    },
+    {
+      "number": 50,
+      "text": "Waxayna dhaheen Dhib ma leh annagu Xagga Eebahannaan u Noqonaynaa."
+    },
+    {
+      "number": 51,
+      "text": "waxaana Dalbaynaa (Damcaynaa) inuu noo Dhaafo Eebahanno Gafafkanaga Inaan Noqonay kuwii ugu Hor Rumeeyey (Xaqa)."
+    },
+    {
+      "number": 52,
+      "text": "Waxaan u waxyoonay Nabi Muuse Guuri Addoomadayda waa Laydin Raaciye."
+    },
+    {
+      "number": 53,
+      "text": "Markaasuu u Diray Fircoon magaalooyinka kuwo Soo kulmiya."
+    },
+    {
+      "number": 54,
+      "text": "Isagoo dhihi Kuwaasu «Banii Israa'iil» waa Koox Yar."
+    },
+    {
+      "number": 55,
+      "text": "Wayna Na cadho Galiyeen."
+    },
+    {
+      "number": 56,
+      "text": "Waxaana nahay kuwo Had iyo Jeer Digtoon."
+    },
+    {
+      "number": 57,
+      "text": "Waxaana ka Bixinnay Beero iyo (Biyo) ilo."
+    },
+    {
+      "number": 58,
+      "text": "Iyo Kanziyo iyo Nagaadi Fiican."
+    },
+    {
+      "number": 59,
+      "text": "Waxaana Dhaxalsiinay Banii Israa'iil."
+    },
+    {
+      "number": 60,
+      "text": "Markaasay Raacen (ka daba Duulcen) Qorrax soo Bixii."
+    },
+    {
+      "number": 61,
+      "text": "Markay isu Muuqdeen Labadii Kooxood waxay Dheheen Asaxaabtii Nabi Muuse Inaga waa Layna Haleelay."
+    },
+    {
+      "number": 62,
+      "text": "Wuxuuna Yidhi (Nabi) Muuse Saas ma aha ee Eebahaybaa Ila jira wuuna i Toosin."
+    },
+    {
+      "number": 63,
+      "text": "Waxaana u Waxyoonay (Nabi) Muuse ku Garaac Ushaada Badda wayna kala Jeexantay Baddii wuxuuna Noqday Jeex kasta Buur wayn oo kale."
+    },
+    {
+      "number": 64,
+      "text": "Waana ku soo Dhawayanay Halkaas kuwii kale (Colkii Fircoon)."
+    },
+    {
+      "number": 65,
+      "text": "Waxaana Korinay (Nabi) Muuse iyo Intii la Jirtay Dhammaan."
+    },
+    {
+      "number": 66,
+      "text": "Ka dibna waxaan Maanshaynay Kuwii kale."
+    },
+    {
+      "number": 67,
+      "text": "Arrintaasna waxaa ku Sugan Aayad Mana aha Badankood kuwo Rumeeyn."
+    },
+    {
+      "number": 68,
+      "text": "Eebahaana waa Adkaade Naxariista,"
+    },
+    {
+      "number": 69,
+      "text": "Ku Akhri Korkooda Warkii Nabi Ibraahim."
+    },
+    {
+      "number": 70,
+      "text": "Markuu ku Yidhi Aabihiis iyo Qoomkiisii maxaad Caabudaysaan."
+    },
+    {
+      "number": 71,
+      "text": "Waxay Dheheen waxaannu Caabudi Sanamyo oonu ahaan kuwo ku Nagaada."
+    },
+    {
+      "number": 72,
+      "text": "Wuxuu Yidhi (Nabi Ibraahim) Maydin Maqlayaan markaad Baryeysaan."
+    },
+    {
+      "number": 73,
+      "text": "Mase idin Anfaci ama idin Dhibi."
+    },
+    {
+      "number": 74,
+      "text": "Waxay Dheheen waxaan Hellay Aabayaalkanno oo Sidaas Fali."
+    },
+    {
+      "number": 75,
+      "text": "Wuxuu Yidhi Bal Warrama waxaad Caabudaysaan."
+    },
+    {
+      "number": 76,
+      "text": "Idinka iyo Aabayaalkiinii Horeeyey."
+    },
+    {
+      "number": 77,
+      "text": "Hadday Iyagu Col ii Yihiin Eebaha Caalamka Mooyee."
+    },
+    {
+      "number": 78,
+      "text": "Ee Eebaha I Abuuray ee ah kan I Hanuunin."
+    },
+    {
+      "number": 79,
+      "text": "Kan I Quudin ee I Waraabin."
+    },
+    {
+      "number": 80,
+      "text": "Markaan Bukoodana Isagaa I Caafiya."
+    },
+    {
+      "number": 81,
+      "text": "Waana kan I dili Ina Noolayn."
+    },
+    {
+      "number": 82,
+      "text": "Ee ah kaan Damci inuu Ii Dhaafo Gafafkayga Maalinta Abaal marinta."
+    },
+    {
+      "number": 83,
+      "text": "Eebow i Sii Xikmo (Nabinimo) Ina Haleeshii kuwa Suuban."
+    },
+    {
+      "number": 84,
+      "text": "Iina Yeel Sheegid Run ah (Fiican) kuwa Dambe."
+    },
+    {
+      "number": 85,
+      "text": "Igana yeel kuwa Dhaxli Janada Naciimo."
+    },
+    {
+      "number": 86,
+      "text": "Una Dambi Dhaaf Aabahay wuxuu ka Mid ahaa kuwa Dhumaye."
+    },
+    {
+      "number": 87,
+      "text": "Hana i Dullayn Maalinta la Soo Bixin (Dadka)."
+    },
+    {
+      "number": 88,
+      "text": "Maalintayna wax Anfacayn Xoolo iyo Ilmo midna."
+    },
+    {
+      "number": 89,
+      "text": "Ruux ula Yimaadda Eebe Qalbi Fayow Mooyee (Iimaan)."
+    },
+    {
+      "number": 90,
+      "text": "Waana loo Dhawayn Jannada kuwa Dhawrsada (Mu'miniinta Dhabta ah)."
+    },
+    {
+      "number": 91,
+      "text": "Waana Loo Muujin Jaxiimo kuwa Baadiyoobay."
+    },
+    {
+      "number": 92,
+      "text": "Waxaana Lagu Dhihi Aaway waxaad Caabudayseen."
+    },
+    {
+      "number": 93,
+      "text": "Oo Eebe ka soo Hadhay Maydiin Gargaarayaan ama Gargaarsanayaan."
+    },
+    {
+      "number": 94,
+      "text": "Waana lagu Hambooriyey (Tuuri) Dhexdeeda iyaga iyo kuwa Baadiyoobay."
+    },
+    {
+      "number": 95,
+      "text": "Iyo Junuudda (Askarta) Ibliis Dhamaan."
+    },
+    {
+      "number": 96,
+      "text": "Waxayna obhan iyagoo Dhexdeeda ku doodi."
+    },
+    {
+      "number": 97,
+      "text": "Eebaan ku Dhaaranaye waxaan ku Sugnayn Baadi Cad."
+    },
+    {
+      "number": 98,
+      "text": "Markaan Idilla Sinay Eebaha Caalamka."
+    },
+    {
+      "number": 99,
+      "text": "Wax na Dhumiyey oon Dambiila Yaasha ahayn ma Jiro."
+    },
+    {
+      "number": 100,
+      "text": "Mana Lihin wax Noo Shafeeca."
+    },
+    {
+      "number": 101,
+      "text": "Iyo Saaxiib Dhaw."
+    },
+    {
+      "number": 102,
+      "text": "Ee hadaan Noqonno oon Ahaanno Mu'miniin."
+    },
+    {
+      "number": 103,
+      "text": "Taas waxaa ku Sugan Calaamad Badankoodna ma Rumeeyo (Xaqa)."
+    },
+    {
+      "number": 104,
+      "text": "Eebahaana waa Adkaade Naxariista."
+    },
+    {
+      "number": 105,
+      "text": "Waxay Beeniyeen Qoomkii (Nabi) Nuux Rasuulladii."
+    },
+    {
+      "number": 106,
+      "text": "Markuu ku Yiidhi Walaalkood Nuux Miyeydaan Dhawrsanayn."
+    },
+    {
+      "number": 107,
+      "text": "Anigu waxaan idiin ahay Rasuul Aamin ah."
+    },
+    {
+      "number": 108,
+      "text": "Ee ka Dhawrsada Eebe ina Adeeca."
+    },
+    {
+      "number": 109,
+      "text": "Idinkana Warsanmaayo (Xaqa) Ujuuro, Ajrigayga Eebaha Caalamkaan ka Sugi."
+    },
+    {
+      "number": 110,
+      "text": "Ee Eebe ka Dhawrsada ina Adeeca."
+    },
+    {
+      "number": 111,
+      "text": "Waxay Dheheen ma waxaanu ku Rumayn adooy ku Raaceen kuwa Dullaysan (Xun Xun)."
+    },
+    {
+      "number": 112,
+      "text": "Wuxuu Yidhi Maxaan ka Ogahay Waxay Fali."
+    },
+    {
+      "number": 113,
+      "text": "Xisaabtooda Eebe unbaa leh haddaad wax Garanaysaan."
+    },
+    {
+      "number": 114,
+      "text": "Anuguna ma Eryayo Mu'miniinta."
+    },
+    {
+      "number": 115,
+      "text": "Waxaan u Dige Cad ahayna ma ihi."
+    },
+    {
+      "number": 116,
+      "text": "Waxay Dheheen Haddaadan Joogin Nuuxow Waxaad Noqon kuwa la Dhagaxyeeyo."
+    },
+    {
+      "number": 117,
+      "text": "Wuxuuna yidhi Eebow Qoomkaygii waa I beeniyeen."
+    },
+    {
+      "number": 118,
+      "text": "Ee Nakala Xukun Dhexdanada, ina kori Ani iyo Inta ila jirta ee Mu'miniinta ah."
+    },
+    {
+      "number": 119,
+      "text": "Waxaannu ku Korinay Isaga iyo intii la Jirtay Doontii Buuxday."
+    },
+    {
+      "number": 120,
+      "text": "Ka Dibna waxaan Maanshaynay kuwii Hadhay (Gaaladii)."
+    },
+    {
+      "number": 121,
+      "text": "Taasna waxaa ku Sugan Calaamad mana aha Badankoodu kuwo Rumayn."
+    },
+    {
+      "number": 122,
+      "text": "Eebahaana waa Adkaade Naxariista."
+    },
+    {
+      "number": 123,
+      "text": "Waxay Beeniyeen Caad Rasuulladii."
+    },
+    {
+      "number": 124,
+      "text": "Markuu ku Yidhi Walaalkood Huud Miyeydaan Dhawrsanayn."
+    },
+    {
+      "number": 125,
+      "text": "Anigu waxaan idiin ahay Rasuul Aamin ah."
+    },
+    {
+      "number": 126,
+      "text": "Ee ka Dhawrsada Eebe Ina Adeeca."
+    },
+    {
+      "number": 127,
+      "text": "Idinkamana Warsanaayo Xaqa ujuuro, Ajrigaygana Eebaha Caalamkaan ka Sugi."
+    },
+    {
+      "number": 128,
+      "text": "Miyaad ka Dhisaysaan Meel Sare oo Dhan Calaamad (Daar) Idinkoo Ciyaari."
+    },
+    {
+      "number": 129,
+      "text": "Ood Yeelanaysaan Masaanic (Dhismo) inaad Waartaan Darteed."
+    },
+    {
+      "number": 130,
+      "text": "Haddaad wax Qabataan Ciqaabtaan una Ciqaabaysaan si Daran."
+    },
+    {
+      "number": 131,
+      "text": "ee Eebe ka Dhawrsada Ina Adeeca."
+    },
+    {
+      "number": 132,
+      "text": "Kana Dhawrsada Eebaha idin Siiyey waxaad Ogtihiin."
+    },
+    {
+      "number": 133,
+      "text": "Wuxuu idin Siiyey Xoolo iyo Caruur."
+    },
+    {
+      "number": 134,
+      "text": "Iyo Beero iyo Ilo."
+    },
+    {
+      "number": 135,
+      "text": "Waxaana Idiinka Digi Cadab Maalin Wayn."
+    },
+    {
+      "number": 136,
+      "text": "Waxay Dheheen waxaa Isu kaanna Mid ah Waanisayaa ama Maadan Waanininaa."
+    },
+    {
+      "number": 137,
+      "text": "Kanna ma aha waxaan Dabeecaddii «Diintii» Dadkii hore ahayn."
+    },
+    {
+      "number": 138,
+      "text": "Nalamana Cadaabayo."
+    },
+    {
+      "number": 139,
+      "text": "Wayna Beeniyeen, markasaan Halaagnay. Taasina waxaa ku Sugan Calaamad, mana aha Badankoodu kuwo Rumayn."
+    },
+    {
+      "number": 140,
+      "text": "Eebahaana waa Adkaade Naxariista."
+    },
+    {
+      "number": 141,
+      "text": "Waxay Beenisay Thamuud suulladii."
+    },
+    {
+      "number": 142,
+      "text": "Markuu ku Yidhi Walaalkood (Nabi) Saalax Miyaydaan Dhawrsanayan."
+    },
+    {
+      "number": 143,
+      "text": "Waxaan idiin ahay Rasuul Aamin ah."
+    },
+    {
+      "number": 144,
+      "text": "ee ka Dhawrsadda Eebe ina Adeeca."
+    },
+    {
+      "number": 145,
+      "text": "Idinkamana Warsanaayo Xaqa ujuuro, Ajrigayga Eebaha Caalamkaan ka Sugi."
+    },
+    {
+      "number": 146,
+      "text": "Ma waxaa Laydinkaga Tagi Halkan idinkoo Aamina."
+    },
+    {
+      "number": 147,
+      "text": "Oo ku Sugan Basaatiin iyo Ilo (Socda)."
+    },
+    {
+      "number": 148,
+      "text": "Iyo Beero iyo Timir Fiideedu Bisayl Tahay."
+    },
+    {
+      "number": 149,
+      "text": "Ood ka Qoranaysaan Buuraha Guryo idinkoo Kibirsan."
+    },
+    {
+      "number": 150,
+      "text": "Ee Eebe ka Dhawrsada ina Adeeca."
+    },
+    {
+      "number": 151,
+      "text": "Hana Adeecina «Maqlina» Amarka Xadgudbayaasha."
+    },
+    {
+      "number": 152,
+      "text": "ah kuwa Fasaadiya Dhulka oon Hagaajinayn."
+    },
+    {
+      "number": 153,
+      "text": "Waxay Dheheen waxaad uun ka mid Tahay kuwa la Sixray."
+    },
+    {
+      "number": 154,
+      "text": "Mana Tihid waxaan Dad nala mid ah ahayn ee noo keen Aayad Haddaad run Sheegi."
+    },
+    {
+      "number": 155,
+      "text": "Wuxuu Yidhi Tani waa Hal, Maalinbay Cabbi idinkuna Maalinhaad Cabbaysaan la Yaqaan."
+    },
+    {
+      "number": 156,
+      "text": "Ee ha ku Taabanina Xumaan, oos idin qabto Cadaab Maalin wayn."
+    },
+    {
+      "number": 157,
+      "text": "Wayse Dileen waxayna ahaadeen kuwo Qoomameeya."
+    },
+    {
+      "number": 158,
+      "text": "Waxaana Qabtay Cadaab Taasna waxaa ku Sugan Calaamad, Badankoodna ma aha kuwo Rumayn (Xaqa)."
+    },
+    {
+      "number": 159,
+      "text": "Eebahaana waa Adkaade Naxariista."
+    },
+    {
+      "number": 160,
+      "text": "Waxay Beeniyeen Qoomkii (Nabi) Luudh Rasuuladii."
+    },
+    {
+      "number": 161,
+      "text": "Markuu ku Yidhi Walaalkood Luudh Miyeydaan Dhawrsanayn."
+    },
+    {
+      "number": 162,
+      "text": "Waxaan idiin ahay Rasuul Aaminee."
+    },
+    {
+      "number": 163,
+      "text": "ee ka Dhawrsada Eebe ina Adeeca."
+    },
+    {
+      "number": 164,
+      "text": "Idinkama Warsanaayo Xaqa Ujuuro, Ajrigayga Eebaha Caalamkaan ka Sugi."
+    },
+    {
+      "number": 165,
+      "text": "Ma waxaad u Tagaysaan Ragga Caalamka."
+    },
+    {
+      "number": 166,
+      "text": "Ood ka Tagaysaan waxa Eebe idiin Abuuray oo Haweenkiina ah, waxaadse Tihiin Kuwo Xadgudba."
+    },
+    {
+      "number": 167,
+      "text": "Waxay Dheheen haddaadan Joogin Luudhow Waxaad Noqon kuwa la Bixiyo."
+    },
+    {
+      "number": 168,
+      "text": "Wuxuu Yidhi (Luudh) Anigu Camalkiinna waan la Cadhaysnahay."
+    },
+    {
+      "number": 169,
+      "text": "Eebow iga Kori iyo Ehelkaygaba waxay Falayaan."
+    },
+    {
+      "number": 170,
+      "text": "Waana korinay Isaga iyo Ehelkiisiiba Dhammaan."
+    },
+    {
+      "number": 171,
+      "text": "Habar ku hadhay Mooyee (Haweeneydiisii)."
+    },
+    {
+      "number": 172,
+      "text": "Markaasaan Halaagnay Intii kale."
+    },
+    {
+      "number": 173,
+      "text": "Waxaa ku soo Daynay (Roob Dhagax Naara) waxaana u Xun Roobka kuwa Loo digay."
+    },
+    {
+      "number": 174,
+      "text": "Taasna waxaa ku Sugan Calaamad, Badankoodna ma aha kuwo Rumayn."
+    },
+    {
+      "number": 175,
+      "text": "Eebhaana waa Adkaade Naxariista."
+    },
+    {
+      "number": 176,
+      "text": "Waxay Beeniyeen Kayntii Ehelkeedii Rasuulladii."
+    },
+    {
+      "number": 177,
+      "text": "Markuu ku Yidhi Nabi Shucayb Miyeydaan Dhawrsanayn."
+    },
+    {
+      "number": 178,
+      "text": "Waxaan idiin ahay Rasuul Aaminee."
+    },
+    {
+      "number": 179,
+      "text": "ee ka Dhawrsada Eebe ina Adeeca."
+    },
+    {
+      "number": 180,
+      "text": "Idinkama Warsanaayo Xaqa Ujuuro, Ajrigayga Eebaha Caalamkaan ka Sugi."
+    },
+    {
+      "number": 181,
+      "text": "Oofiya (Dhammaystira) Beegidda hana ka mid Noqonina kuwa Nusqaamiya."
+    },
+    {
+      "number": 182,
+      "text": "Una Miisama Cadaalad Toosan."
+    },
+    {
+      "number": 183,
+      "text": "Hana ka Nusqaaminina Dadka waxooda hana Xumaynina Dhulka Idinkoo Fasaadin."
+    },
+    {
+      "number": 184,
+      "text": "Kana Dhawrsada Eebaha idin Abuuray iyo Khalqigii Horreeyey."
+    },
+    {
+      "number": 185,
+      "text": "Waxay Dheheen waxaad uun Tahay kuwa la Sixray."
+    },
+    {
+      "number": 186,
+      "text": "Mana Tihid waxaan Dad nala mid ah ahayn, waxaana kuu Malaynaynaa kuwa Beenaalayaasha ah."
+    },
+    {
+      "number": 187,
+      "text": "ee Nagu soo Rid Goosimo Samada ka mid ah haddaad Run sheegi."
+    },
+    {
+      "number": 188,
+      "text": "Wuxuu Yidhi Eebahay baa og waxaad Falaysaan."
+    },
+    {
+      "number": 189,
+      "text": "Wayna Beeniyeen waxaana Qabtay Cadaab Maalintii Hadhka, waana Cadaab Maalin Wayn."
+    },
+    {
+      "number": 190,
+      "text": "Arrintaasna waxaa ku Sugan Calaamad mana aha Badankoodu mid Rumayn."
+    },
+    {
+      "number": 191,
+      "text": "Eebahaana waa Adkaade Naxariista."
+    },
+    {
+      "number": 192,
+      "text": "Quraankuna waa soo Dejin Ebaha Caalamka."
+    },
+    {
+      "number": 193,
+      "text": "Waxaa kula soo degan Ruux Aamin ah (Jibriil)."
+    },
+    {
+      "number": 194,
+      "text": "Qalbigaaga inaad ahaato kuwa ku Diga."
+    },
+    {
+      "number": 195,
+      "text": "Af Carabi ahoo Cad."
+    },
+    {
+      "number": 196,
+      "text": "Quraankuna wuxuu ku Sugnaa Kutubtii hore."
+    },
+    {
+      "number": 197,
+      "text": "Miyeyna Calaamad ugu Fillayn inuu Yaqaanno Culimadii Banii Israa'iil/"
+    },
+    {
+      "number": 198,
+      "text": "Haddan ku soo Dejino Quraankan Cajamiga Qaarkiis."
+    },
+    {
+      "number": 199,
+      "text": "oo uu ku Akhriyo Korkooda mayna Rumeeyeen."
+    },
+    {
+      "number": 200,
+      "text": "Saasaan u Galinay Diidada Quluubta Dambiilayaasha."
+    },
+    {
+      "number": 201,
+      "text": "Mana Rumaynayaan Xaqa Intay ka Arkaan Cadaab Daran."
+    },
+    {
+      "number": 202,
+      "text": "Oos ugu Yimaaddo Cadaabku Kado Iyagoon Ogayn."
+    },
+    {
+      "number": 203,
+      "text": "Oy Dhahaan ma nala Sugi."
+    },
+    {
+      "number": 204,
+      "text": "Ma Cadaabkanagay Dadajisan."
+    },
+    {
+      "number": 205,
+      "text": "Ka Warraan Haddaan u Raaxayno Sanooyin."
+    },
+    {
+      "number": 206,
+      "text": "Markaas uu u Yimaaddo wixii loogu Goodinaayey."
+    },
+    {
+      "number": 207,
+      "text": "Muxuu uga Tari Xaggooda wixii loogu Raaxeeyey."
+    },
+    {
+      "number": 208,
+      "text": "Magaalo aan Halaagno oon loo Diginna ma Jirto."
+    },
+    {
+      "number": 209,
+      "text": "Waano Darteed, mana nihin Daalimiin."
+    },
+    {
+      "number": 210,
+      "text": "Kumana soo Degto Quraanka Shayaadiintu."
+    },
+    {
+      "number": 211,
+      "text": "Kumana Habboona mana Karaan."
+    },
+    {
+      "number": 212,
+      "text": "Shayaadiintu Maqalka waa ka Fogyihiin."
+    },
+    {
+      "number": 213,
+      "text": "Ee ha Caabudin (Baryin) Eebe Miciisa Ilaah kale ood Noqoto kuwa la Cadaabo."
+    },
+    {
+      "number": 214,
+      "text": "Una Dig Qaraabadaada Kuu sii Dhaw."
+    },
+    {
+      "number": 215,
+      "text": "Una Raarici Garabkaaga (U Naxariiso) Ciddii ku Raacda oo Mu'miniinta ah."
+    },
+    {
+      "number": 216,
+      "text": "Hadday ku Cassiyaanna waxaad Dhahdaa anigu Bari baan ka ahay waxaad Falaysaan."
+    },
+    {
+      "number": 217,
+      "text": "Talo Saaro Eebaha Adkaada ee Naxariista."
+    },
+    {
+      "number": 218,
+      "text": "Ee ku Arka Markaad Kici."
+    },
+    {
+      "number": 219,
+      "text": "Iyo Lagagadoonkaaga kuwa Tukan."
+    },
+    {
+      "number": 220,
+      "text": "Eebana waa Maqle Og."
+    },
+    {
+      "number": 221,
+      "text": "Ma idiinka Warramaa Ruuxay ku soo Degi Shayaadiintu."
+    },
+    {
+      "number": 222,
+      "text": "Waxay ku soo Degi Beenaale Dambi Badan oo Dhan."
+    },
+    {
+      "number": 223,
+      "text": "Waxayna Xadi Maqalka Badankoodna waa Beenaalayaal."
+    },
+    {
+      "number": 224,
+      "text": "Gabayaana waxaa Raaca kuwa Baadida ah."
+    },
+    {
+      "number": 225,
+      "text": "Miyaadan Arkin in Iyagu Tog kasta (Xumaan) ay ku Dhex Wareersanyihiin."
+    },
+    {
+      "number": 226,
+      "text": "Oyna Sheegi waxayna Falayn."
+    },
+    {
+      "number": 227,
+      "text": "Kuwa Xaqa Rumeeyey Mooyee oo Camal Fiican Fala oo Xusa Eebe wax Badan, oo Gargaarta Dulmi ka Dib, waxayna Ogaan doonaan kuwii Dulmi Falay soo Noqoshaday soo Noqdaan (Qiyaamada)."
+    }
+  ]
+}

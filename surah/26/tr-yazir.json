@@ -1,0 +1,914 @@
+{
+  "surah": 26,
+  "translation": "tr-yazir",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "Tâ, Sîn, Mîm."
+    },
+    {
+      "number": 2,
+      "text": "Bunlar sana apaçık kitabın âyetleridir."
+    },
+    {
+      "number": 3,
+      "text": "(Resulüm!) Onlar iman etmiyorlar diye adeta kendine kıyacaksın!"
+    },
+    {
+      "number": 4,
+      "text": "Biz dilersek onların üzerlerine gökten bir âyet (mucize) indiririz de, ona boyunları eğilekalır."
+    },
+    {
+      "number": 5,
+      "text": "Bununla beraber kendilerine O Rahmân'dan yeni bir öğüt gelmeyedursun, ille ondan yüz çevirirler."
+    },
+    {
+      "number": 6,
+      "text": "Üstelik (ona) \"yalandır\" dediler; fakat onlara alay edip durdukları şeyin haberleri yakında gelecektir."
+    },
+    {
+      "number": 7,
+      "text": "Yeryüzüne bir bakmadılar mı? Biz orada her güzel çiftten nice bitkiler yetiştirmişiz."
+    },
+    {
+      "number": 8,
+      "text": "Şüphesiz ki bunda mutlak bir âyet (nişane) vardır; ama onların çoğu iman etmezler."
+    },
+    {
+      "number": 9,
+      "text": "Ve şüphe yok ki Rabbin, galip ve engin merhamet sahibidir."
+    },
+    {
+      "number": 10,
+      "text": "Bir vakit de Rabbin, Musa'ya nida edip \"Git o zalim kavme\" dedi."
+    },
+    {
+      "number": 11,
+      "text": "\"Firavun kavmine, hâlâ sakınmayacaklar mı?\""
+    },
+    {
+      "number": 12,
+      "text": "(Musa) şöyle seslendi: \"Ya Rab! Doğrusu ben korkarım ki beni yalancı sayarlar.\""
+    },
+    {
+      "number": 13,
+      "text": "\"Ve göğsüm daralır, dilim dönmez, onun için Harun'a da elçilik ver.\""
+    },
+    {
+      "number": 14,
+      "text": "\"Hem onların bana isnad ettikleri bir suç var. Ondan dolayı korkarım ki, hemen beni öldürürler.\""
+    },
+    {
+      "number": 15,
+      "text": "(Allah): \"Hayır hayır\" buyurdu, \"haydi ikiniz âyetlerimizle (mucizelerimizle) gidin. Şüphesiz ki, biz sizinle beraberiz. (Onları) işitiyoruz.\""
+    },
+    {
+      "number": 16,
+      "text": "\"Haydin Firavun'a gidin de deyin ki: İnan biz, âlemlerin Rabbinin elçisiyiz."
+    },
+    {
+      "number": 17,
+      "text": "İsrail oğullarını bizimle beraber gönder.\""
+    },
+    {
+      "number": 18,
+      "text": "\"Â, dedi, biz seni çocukken himayemize alıp büyütmedik mi? Hayatının bir çok yıllarını aramızda geçirmedin mi?\""
+    },
+    {
+      "number": 19,
+      "text": "\"Sonunda o yaptığın (kötü) işi de yaptın. Sen nankörün birisin!\""
+    },
+    {
+      "number": 20,
+      "text": "Musa, \"Ben, dedi, o işi o anda yaptım ki şaşkınlardandım.\""
+    },
+    {
+      "number": 21,
+      "text": "\"Sizden korkunca da hemen aranızdan kaçtım. Sonra Rabbim bana hikmet bahşetti ve beni peygamberlerden kıldı.\""
+    },
+    {
+      "number": 22,
+      "text": "\"O başıma kaktığın nimet de (aslında) İsrail oğullarını kendine köle edinmiş olmandır. \""
+    },
+    {
+      "number": 23,
+      "text": "Firavun şöyle dedi: \"Âlemlerin Rabbi dediğin nedir ki?\""
+    },
+    {
+      "number": 24,
+      "text": "Musa cevap olarak: \"Eğer işin gerçeğini düşünüp anlayan kişiler olsanız (itiraf edersiniz ki) O, göklerin, yerin ve ikisi arasında bulunan her şeyin Rabbi'dir.\""
+    },
+    {
+      "number": 25,
+      "text": "(Firavun) etrafında bulunanlara: \"İşitmiyor musunuz?\" dedi."
+    },
+    {
+      "number": 26,
+      "text": "Musa dedi ki: \"O sizin de Rabbiniz, daha önce ki atalarınızın da Rabbidir.\""
+    },
+    {
+      "number": 27,
+      "text": "(Firavun): \"Size gönderilen bu elçiniz mutlaka delidir\" dedi."
+    },
+    {
+      "number": 28,
+      "text": "Musa devamla şöyle söyledi: \"Şayet aklınızı kullansanız (anlarsınız ki), O, doğunun, batının ve ikisinin arasında bulunanların Rabbidir.\""
+    },
+    {
+      "number": 29,
+      "text": "Firavun: \"Benden başkasını ilâh tutarsan, andolsun ki seni zindana kapatılmışlardan ederim\" dedi."
+    },
+    {
+      "number": 30,
+      "text": "Musa sordu: \"Sana apaçık bir şey getirmiş olsam da mı?\""
+    },
+    {
+      "number": 31,
+      "text": "Firavun: \"Haydi getir onu bakayım, doğrulardan isen\" dedi."
+    },
+    {
+      "number": 32,
+      "text": "Bunun üzerine Musa asâsını bırakıverdi; apaçık bir ejderha oluverdi."
+    },
+    {
+      "number": 33,
+      "text": "Elini de (koynundan) çekti çıkardı; bakanlara bembeyaz (görünen, nur saçan bir şey) oluverdi."
+    },
+    {
+      "number": 34,
+      "text": "Firavun çevresinde bulunan ileri gelenlere: \"Bu dedi, herhalde çok bilgili bir sihirbaz!\""
+    },
+    {
+      "number": 35,
+      "text": "\"Sizi sihriyle yurdunuzdan çıkarmak istiyor. Şimdi ne buyurursunuz?\""
+    },
+    {
+      "number": 36,
+      "text": "Dediler ki: \"Bunu ve kardeşini eğle, şehirlere de toplayıcılar gönder.\""
+    },
+    {
+      "number": 37,
+      "text": "\"Bütün bilgiç sihirbazları sana getirsinler.\""
+    },
+    {
+      "number": 38,
+      "text": "Böylece, sihirbazlar belli bir günün tayin edilen vaktinde bir araya getirildi."
+    },
+    {
+      "number": 39,
+      "text": "Halka, \"Siz de toplanıyor musunuz? (Haydi çabuk olun)\" denildi."
+    },
+    {
+      "number": 40,
+      "text": "\"Üstün gelirlerse herhalde sihirbazlara uyarız\" dediler."
+    },
+    {
+      "number": 41,
+      "text": "Sihirbazlar geldiklerinde Firavun'a \"Şayet biz üstün gelirsek, muhakkak bize bir ücret vardır, değil mi?\" dediler."
+    },
+    {
+      "number": 42,
+      "text": "Firavun cevaben: \"Evet, o takdirde hiç şüphe etmeyin, gözde kimselerden olacaksınız\" dedi."
+    },
+    {
+      "number": 43,
+      "text": "Musa onlara \"Atın, ne atacaksanız\" dedi."
+    },
+    {
+      "number": 44,
+      "text": "Bunun üzerine iplerini ve değneklerini attılar ve \"Firavun'un kudreti hakkı için şüphesiz elbette bizler galip geleceğiz\" dediler."
+    },
+    {
+      "number": 45,
+      "text": "Ardından Musa asâsını attı; bir de ne görsünler, onların uydurduklarını yutuyor!"
+    },
+    {
+      "number": 46,
+      "text": "Sihirbazlar derhal secdeye kapandılar."
+    },
+    {
+      "number": 47,
+      "text": "\"İman ettik, dediler, Âlemlerin Rabbine \""
+    },
+    {
+      "number": 48,
+      "text": "\"Musa ve Harun'un Rabbine!\""
+    },
+    {
+      "number": 49,
+      "text": "Firavun (kızgınlık içinde) dedi ki: \"Ben size izin vermeden O'na iman ettiniz ha! Anlaşıldı ki o size sihri öğreten büyüğünüzmüş! Ama şimdi bileceksiniz: Andolsun, ellerinizi ve ayaklarınızı çaprazlama ke stireceğim, hepinizi çarmıha gerdireceğim!\""
+    },
+    {
+      "number": 50,
+      "text": "\"Zararı yok dediler nasıl olsa biz Rabbimize döneceğiz.\""
+    },
+    {
+      "number": 51,
+      "text": "\"Herhalde biz müminlerin evveli olduğumuzdan dolayı, Rabbimizin bize mağfiret buyuracağını ümit ederiz\""
+    },
+    {
+      "number": 52,
+      "text": "Biz, Musa'ya: \"Kullarımı geceleyin yola çıkar, çünkü takip edileceksiniz\" diye vahyettik."
+    },
+    {
+      "number": 53,
+      "text": "Firavun da şehirlere (asker) toplayıcılar gönderdi:"
+    },
+    {
+      "number": 54,
+      "text": "\"Esasen bunlar, sayıları azar azar, bölük pörçük bir cemaattır.\""
+    },
+    {
+      "number": 55,
+      "text": "\"(Böyle iken) hakkımızda çok gayz (öfke) besliyorlar. \""
+    },
+    {
+      "number": 56,
+      "text": "\"Biz ise, elbette uyanık (ve tekvücut) bir cemaatız.\" (diyor ve dedirtiyordu.)"
+    },
+    {
+      "number": 57,
+      "text": "Ama (sonunda) biz, onları (Firavun ve kavmini) bahçelerden, pınarlardan,"
+    },
+    {
+      "number": 58,
+      "text": "Hazinelerden ve şerefli makamlardan çıkardık."
+    },
+    {
+      "number": 59,
+      "text": "Ve onlara İsrail oğullarını mirasçı yaptık."
+    },
+    {
+      "number": 60,
+      "text": "Derken (Firavun ve adamları) güneş doğmuştu ki, onların ardına düştüler."
+    },
+    {
+      "number": 61,
+      "text": "İki topluluk birbirini görünce, Musa'nın adamları \"Eyvah, yakalandık! dediler."
+    },
+    {
+      "number": 62,
+      "text": "Musa: \"Hayır, aslâ! dedi, Rabbim şüphesiz benimledir, bana yolunu gösterecektir.\""
+    },
+    {
+      "number": 63,
+      "text": "Bunun üzerine Musa'ya \"Vur asân ile denize\" diye vahyettik; vurunca bir infilak etti, her bölük koca bir dağ gibi oluverdi,"
+    },
+    {
+      "number": 64,
+      "text": "Ötekilerini de buraya yanaştırıvermiştik."
+    },
+    {
+      "number": 65,
+      "text": "Musa ve beraberindekilerin hepsini kurtardık,"
+    },
+    {
+      "number": 66,
+      "text": "Sonra da ötekileri suda boğduk."
+    },
+    {
+      "number": 67,
+      "text": "Şüphesiz bunda bir âyet (ibret) vardır; ama çokları iman etmiş değillerdir."
+    },
+    {
+      "number": 68,
+      "text": "Ve şüphesiz, işte o Rabbin, mutlak galip ve engin merhamet sahibidir."
+    },
+    {
+      "number": 69,
+      "text": "(Resulüm!) onlara İbrahim'in kıssasını da naklet."
+    },
+    {
+      "number": 70,
+      "text": "Hani o, babasına ve kavmine, \"Neye tapıyorsunuz?\" demişti."
+    },
+    {
+      "number": 71,
+      "text": "\"Birtakım putlara taparız da onlar sayesinde toplanırız\" dediler."
+    },
+    {
+      "number": 72,
+      "text": "İbrahim \"Peki, dedi, yalvardığınızda onlar sizi işitiyorlar mı?\""
+    },
+    {
+      "number": 73,
+      "text": "\"Veya size fayda veya zararları olur mu?\""
+    },
+    {
+      "number": 74,
+      "text": "\"Yok, dediler, ama biz babalarımızı böyle yapar bulduk.\""
+    },
+    {
+      "number": 75,
+      "text": "İbrahim dedi ki: \"İyi ama, ister sizin, ister önceki atalarınızın olsun, neye taptığınızı (biraz olsun) düşündünüz mü?\""
+    },
+    {
+      "number": 76,
+      "text": "İbrahim dedi ki: \"İyi ama, ister sizin, ister önceki atalarınızın olsun, neye taptığınızı (biraz olsun) düşündünüz mü?\""
+    },
+    {
+      "number": 77,
+      "text": "\"Hep onlar benim düşmanımdır; ancak âlemlerin Rabbi (benim dostumdur)\""
+    },
+    {
+      "number": 78,
+      "text": "\"O ki, beni yaratan ve bana doğru yolu gösterendir,\""
+    },
+    {
+      "number": 79,
+      "text": "\"Beni yediren, içirendir,\""
+    },
+    {
+      "number": 80,
+      "text": "\"Hastalandığım zaman bana O, şifâ verir.\""
+    },
+    {
+      "number": 81,
+      "text": "\"O ki, benim canımı alacak, sonra diriltecektir. \""
+    },
+    {
+      "number": 82,
+      "text": "\"Ve hesap günü, hatamı bağışlayacağını umduğumdur.\""
+    },
+    {
+      "number": 83,
+      "text": "\"Ya Rab! Bana hikmet (hüküm) ver ve beni iyiler (zümresin)e kat.\""
+    },
+    {
+      "number": 84,
+      "text": "\"Sonra gelecekler içinde beni doğrulukla anılanlardan eyle!\""
+    },
+    {
+      "number": 85,
+      "text": "\"Ve beni naîm (nimeti bol) cennetin varislerinden eyle!\""
+    },
+    {
+      "number": 86,
+      "text": "\"Babamı da bağışla, çünkü o yanlış gidenlerdendir. \""
+    },
+    {
+      "number": 87,
+      "text": "\"(İnsanların) diriltilecekleri gün, beni mahcub etme.\""
+    },
+    {
+      "number": 88,
+      "text": "\"O gün ki ne mal fayda verir ne oğullar!\""
+    },
+    {
+      "number": 89,
+      "text": "\"Ancak Allah'a temiz bir kalple gelenler o günde (kurtuluşa erer).\""
+    },
+    {
+      "number": 90,
+      "text": "(O gün) Cennet müttakilere yaklaştırılmıştır."
+    },
+    {
+      "number": 91,
+      "text": "Azgınlar için de cehennem hortlatılmıştır."
+    },
+    {
+      "number": 92,
+      "text": "Onlara, \"Allah'ı bırakıp da taptıklarınız, hani nerede? Size yardım edebiliyorlar mı veya kendilerini kurtarabiliyorlar mı?\" denilir."
+    },
+    {
+      "number": 93,
+      "text": "Onlara, \"Allah'ı bırakıp da taptıklarınız, hani nerede? Size yardım edebiliyorlar mı veya kendilerini kurtarabiliyorlar mı?\" denilir."
+    },
+    {
+      "number": 94,
+      "text": "Ve arkasından hep onlar (putlar ve azgınlar) o cehennemin içine fırlatılmaktadırlar."
+    },
+    {
+      "number": 95,
+      "text": "Ve bütün o İblis orduları onun içinde birbirleriyle çekişirlerken dediler ki:"
+    },
+    {
+      "number": 96,
+      "text": "Ve bütün o İblis orduları onun içinde birbirleriyle çekişirlerken dediler ki:"
+    },
+    {
+      "number": 97,
+      "text": "\"Vallahi biz, gerçekten apaçık bir sapıklık içindeymişiz.\""
+    },
+    {
+      "number": 98,
+      "text": "\"Çünkü biz sizi, âlemlerin Rabbi ile bir seviyede tutuyorduk.\""
+    },
+    {
+      "number": 99,
+      "text": "\"Ve bizi hep o günahkarlar saptırdı.\""
+    },
+    {
+      "number": 100,
+      "text": "\"Bak bizim için ne şefaatçiler var,\""
+    },
+    {
+      "number": 101,
+      "text": "\"Ne de yakın bir dost.\""
+    },
+    {
+      "number": 102,
+      "text": "\"Ah keşke (dünyaya) bir kere daha dönebilsek de, müminlerden olabilseydik.\""
+    },
+    {
+      "number": 103,
+      "text": "Şüphesiz bunda bir âyet (alınacak bir ders) vardır; oysa çokları iman etmiş değillerdir."
+    },
+    {
+      "number": 104,
+      "text": "Ve şüphesiz Rabbin, işte O, mutlak galip ve engin merhamet sahibidir."
+    },
+    {
+      "number": 105,
+      "text": "Nuh kavmi de peygamberleri yalancılıkla itham etti."
+    },
+    {
+      "number": 106,
+      "text": "Hani kardeşleri Nuh onlara şöyle demişti: \"Siz Allah'tan korkmaz mısınız?\""
+    },
+    {
+      "number": 107,
+      "text": "\"Haberiniz olsun ki ben, size gönderilmiş güvenilir bir Peygamberim."
+    },
+    {
+      "number": 108,
+      "text": "\"Gelin artık, Allah'tan korkun ve bana itaat edin.\""
+    },
+    {
+      "number": 109,
+      "text": "\"Buna karşılık ben sizden hiçbir ücret istemiyorum. Benim mükafaatımı verecek olan ancak, âlemlerin Rabbidir.\""
+    },
+    {
+      "number": 110,
+      "text": "\"Gelin, artık, Allah'tan korkun ve bana itaat edin.\""
+    },
+    {
+      "number": 111,
+      "text": "\"Â, dediler, senin ardına hep düşük kimseler düşmüşken, biz sana hiç inanır mıyız?\""
+    },
+    {
+      "number": 112,
+      "text": "Nuh dedi ki: \"Onların yaptıkları hakkında bir bilgim yoktur.\""
+    },
+    {
+      "number": 113,
+      "text": "\"Onların hesabı ancak Rabbime aittir. Düşünsenize!\""
+    },
+    {
+      "number": 114,
+      "text": "\"Hem ben iman edenleri kovmaya memur değilim.\""
+    },
+    {
+      "number": 115,
+      "text": "\"Ben ancak apaçık bir uyarıcıyım.\""
+    },
+    {
+      "number": 116,
+      "text": "Dediler ki: \"Ey Nuh! Eğer vazgeçmezsen, iyi bil ki, taşa tutulanlardan olacaksın!\""
+    },
+    {
+      "number": 117,
+      "text": "Nuh: \"Rabbim! dedi, kavmim beni yalancılıkla itham etti.\""
+    },
+    {
+      "number": 118,
+      "text": "\"Artık benimle onların arasında sen hükmünü ver. Beni ve beraberimdeki müminleri kurtar.\""
+    },
+    {
+      "number": 119,
+      "text": "Bunun üzerine biz de onu ve beraberindekileri, o dolu gemide taşıyarak kurtardık."
+    },
+    {
+      "number": 120,
+      "text": "Sonra da arkasında kalanları suda boğduk."
+    },
+    {
+      "number": 121,
+      "text": "Şüphesiz bunda mutlak bir âyet (alınacak ders) vardır; ama çokları iman etmiş değillerdir."
+    },
+    {
+      "number": 122,
+      "text": "Ve şüphesiz Rabbin, işte O, mutlak galip ve engin merhamet sahibidir."
+    },
+    {
+      "number": 123,
+      "text": "Âd (kavmi) de peygamberleri yalancılıkla itham etti."
+    },
+    {
+      "number": 124,
+      "text": "Hani kardeşleri Hûd onlara şöyle demişti: \"Siz Allah'tan korkmaz mısınız?\""
+    },
+    {
+      "number": 125,
+      "text": "\"Haberiniz olsun ki ben, size gönderilmiş, güvenilir bir Peygamberim.\""
+    },
+    {
+      "number": 126,
+      "text": "\"Gelin artık Allah'tan korkun ve bana itaat edin.\""
+    },
+    {
+      "number": 127,
+      "text": "\"Buna karşılık ben sizden hiçbir ücret istemiyorum. Benim mükafatımı verecek olan ancak âlemlerin Rabbidir. \""
+    },
+    {
+      "number": 128,
+      "text": "\"Siz her tepeye bir alâmet bina edip eğlenir durur musunuz?\""
+    },
+    {
+      "number": 129,
+      "text": "\"Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz?\""
+    },
+    {
+      "number": 130,
+      "text": "\"Hem tuttuğunuz zaman merhametsiz zorbalar gibi tutuyorsunuz.\""
+    },
+    {
+      "number": 131,
+      "text": "\"Artık Allah'tan korkun ve bana itaat edin.\""
+    },
+    {
+      "number": 132,
+      "text": "\"O Allah'tan korkun ki, size o bildiğiniz şeyleri vermekte,\""
+    },
+    {
+      "number": 133,
+      "text": "\"Davarlar, oğullar,\""
+    },
+    {
+      "number": 134,
+      "text": "\"Cennet gibi bağlar, bahçeler, pınarlar ihsan etmektedir.\""
+    },
+    {
+      "number": 135,
+      "text": "\"Cidden ben sizin hakkınızda büyük bir günün azabından korkuyorum.\""
+    },
+    {
+      "number": 136,
+      "text": "\"Dediler ki: \"Sen ha vaaz etmişsin, ha vaaz edenlerden olmamışsın, bizce birdir.\""
+    },
+    {
+      "number": 137,
+      "text": "\"Bu sırf eskilerin âdetidir.\""
+    },
+    {
+      "number": 138,
+      "text": "\"Biz azaba uğratılacak da değiliz.\""
+    },
+    {
+      "number": 139,
+      "text": "Böylece onu yalancı saydılar; biz de kendilerini helak ettik. Şüphesiz bunda mutlak bir âyet (alınacak bir ders) vardır, ama çokları iman etmiş değillerdir."
+    },
+    {
+      "number": 140,
+      "text": "Ve şüphesiz Rabbin, işte O, mutlak galip ve engin merhamet sahibidir."
+    },
+    {
+      "number": 141,
+      "text": "Semûd (kavmi) de peygamberleri yalancılıkla itham etti."
+    },
+    {
+      "number": 142,
+      "text": "Hani kardeşleri Salih onlara şöyle demişti: \"Siz Allah'tan korkmaz mısınız?\""
+    },
+    {
+      "number": 143,
+      "text": "\"Haberiniz olsun ki ben size gönderilmiş güvenilir bir peygamberim.\""
+    },
+    {
+      "number": 144,
+      "text": "\"Gelin artık, Allah'tan korkun ve bana itaat edin.\""
+    },
+    {
+      "number": 145,
+      "text": "\"Buna karşılık ben sizden hiçbir ücret istemiyorum. Benim mükafatımı verecek olan ancak âlemlerin Rabbidir.\""
+    },
+    {
+      "number": 146,
+      "text": "\"Siz burada güven içinde bırakılacak mısınız?\""
+    },
+    {
+      "number": 147,
+      "text": "\"Bahçelerin, pınarların içinde,\""
+    },
+    {
+      "number": 148,
+      "text": "\"Ekinlerin, salkımları sarkmış hurmalar arasında,\""
+    },
+    {
+      "number": 149,
+      "text": "Ki bir de dağlardan keyifli keyifli kâşâneler oyuyorsunuz.\""
+    },
+    {
+      "number": 150,
+      "text": "\"Gelin! Allah'tan korkun da bana itaat edin.\""
+    },
+    {
+      "number": 151,
+      "text": "\"Yeryüzünde bozgunculuk yapıp dirlik düzenlik vermeyen bozguncuların emrine uymayın.\""
+    },
+    {
+      "number": 152,
+      "text": "\"Yeryüzünde bozgunculuk yapıp dirlik düzenlik vermeyen bozguncuların emrine uymayın.\""
+    },
+    {
+      "number": 153,
+      "text": "\"Sen dediler, olsa olsa iyice büyülenmiş birisin!\""
+    },
+    {
+      "number": 154,
+      "text": "\"Sen de ancak bizim gibi bir beşersin. Eğer doğru söyleyenlerden isen, haydi bize bir âyet (mucize) getir.\""
+    },
+    {
+      "number": 155,
+      "text": "Salih \"İşte (mucize) bu dişi devedir; su içme hakkı (bir gün) onundur, belli bir günün içme hakkı da sizin\" dedi."
+    },
+    {
+      "number": 156,
+      "text": "\"Sakın ona bir kötülükle ilişmeyin, yoksa sizi büyük bir günün azabı yakalayıverir.\""
+    },
+    {
+      "number": 157,
+      "text": "Derken onu kestiler; fakat pişman da oldular."
+    },
+    {
+      "number": 158,
+      "text": "Çünkü kendilerini azap yakalayıverdi. Şüphesiz bunda bir âyet (alınacak bir ders) vardır, ama çokları iman etmiş değillerdir."
+    },
+    {
+      "number": 159,
+      "text": "Ve şüphesiz Rabbin, işte O mutlak galip ve engin merhamet sahibidir."
+    },
+    {
+      "number": 160,
+      "text": "Lût (kavmi) de peygamberleri yalancılıkla itham etti."
+    },
+    {
+      "number": 161,
+      "text": "Hani kardeşleri Lût onlara şöyle demişti: \"Siz Allah'tan kormaz mısınız?\""
+    },
+    {
+      "number": 162,
+      "text": "\"Haberiniz olsun ki, ben size gönderilmiş güvenilir bir peygamberim.\""
+    },
+    {
+      "number": 163,
+      "text": "\"Gelin artık, Allah'tan korkun ve bana itaat edin.\""
+    },
+    {
+      "number": 164,
+      "text": "\"Buna karşılık ben sizden bir ücret istemiyorum. Benim mükafatımı verecek olan ancak âlemlerin Rabbidir.\""
+    },
+    {
+      "number": 165,
+      "text": "\"İnsanlar içinden erkeklere mi gidiyorsunuz?\""
+    },
+    {
+      "number": 166,
+      "text": "\"Bırakıyorsunuz da sizler için yarattığı eşleri! Doğrusu siz insanlıktan çıkmış bir kavimsiniz!\""
+    },
+    {
+      "number": 167,
+      "text": "Onlar şöyle dediler: \"Ey Lût! (Bu davadan) vazgeçmezsen, iyi bilki, sürülenlerden olacaksın.\""
+    },
+    {
+      "number": 168,
+      "text": "Lût \"Doğrusu ben, dedi, sizin bu işinize buğzedenlerdenim.\""
+    },
+    {
+      "number": 169,
+      "text": "\"Yâ Rabbi! Beni ve ailemi onların yapageldiklerin(in vebalin)den kurtar.\""
+    },
+    {
+      "number": 170,
+      "text": "Biz de onu ve ailesinin tamamını kurtardık,"
+    },
+    {
+      "number": 171,
+      "text": "Ancak (geride) bir yaşlı kadın kaldı."
+    },
+    {
+      "number": 172,
+      "text": "Sonra geridekilerin hepsini helak ettik."
+    },
+    {
+      "number": 173,
+      "text": "Ve üzerlerine öyle bir yağmur yağdırdık ki, (uyarılanların) o yağmuru ne kötü bir yağmurdu!"
+    },
+    {
+      "number": 174,
+      "text": "Şüphesiz bunda bir âyet (alınacak bir ders) vardır. Ama çokları iman etmiş değillerdir."
+    },
+    {
+      "number": 175,
+      "text": "Ve şüphesiz Rabbin, işte O mutlak galip ve engin merhamet sahibidir."
+    },
+    {
+      "number": 176,
+      "text": "Eyke halkı da peygamberleri yalancılıkla itham etti."
+    },
+    {
+      "number": 177,
+      "text": "Hani Şuayb onlara şöyle demişti: \"Siz Allah'tan korkmaz mısınız?\""
+    },
+    {
+      "number": 178,
+      "text": "\"Haberiniz olsun ki ben size gönderilmiş güvenilir bir peygamberim.\""
+    },
+    {
+      "number": 179,
+      "text": "\"Gelin, Allah'tan korkun ve bana itaat edin.\""
+    },
+    {
+      "number": 180,
+      "text": "\"Buna karşılık ben sizden bir ücret istemiyorum. Benim mükafatımı verecek olan yalnız âlemlerin Rabbidir.\""
+    },
+    {
+      "number": 181,
+      "text": "\"Ölçeği tam ölçün de hak yiyenlerden olmayın.\""
+    },
+    {
+      "number": 182,
+      "text": "\"Ve doğru terazi ile tartın.\""
+    },
+    {
+      "number": 183,
+      "text": "\"Halkın eşyalarını değerinden düşürmeyin. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın.\""
+    },
+    {
+      "number": 184,
+      "text": "\"O sizi ve sizden önceki nesilleri yaratan Allah'tan korkun.\""
+    },
+    {
+      "number": 185,
+      "text": "Onlar şöyle dediler: \"Sen, olsa olsa iyice büyülenmiş birisin.\""
+    },
+    {
+      "number": 186,
+      "text": "\"Sen de bizim gibi bir beşerden başka nesin? Bil ki, biz seni ancak yalancılardan biri sayıyoruz.\""
+    },
+    {
+      "number": 187,
+      "text": "\"Şayet doğru sözlülerden isen, üstümüze gökten bir parça düşürüver.\""
+    },
+    {
+      "number": 188,
+      "text": "Şuayb, \"Rabbim, yaptıklarınızı en iyi bilendir\" dedi."
+    },
+    {
+      "number": 189,
+      "text": "Hülasa, onu yalancı saydılar da kendilerini o gölge gününün azabı yakalayıverdi. O cidden büyük bir günün azabı idi!"
+    },
+    {
+      "number": 190,
+      "text": "Şüphesiz bunda bir âyet (alınacak bir ders) vardır. Ama çokları iman etmiş değillerdir."
+    },
+    {
+      "number": 191,
+      "text": "Ve şüphesiz Rabbin, işte O, mutlak galip ve engin merhamet sahibidir."
+    },
+    {
+      "number": 192,
+      "text": "Ve muhakkak ki bu (Kur'ân) âlemlerin Rabbinin indirmesidir."
+    },
+    {
+      "number": 193,
+      "text": "(Resulüm!) Onu Rûhu'lemin (Cebrail) indirdi;"
+    },
+    {
+      "number": 194,
+      "text": "Uyarıcılardan olasın diye senin kalbin üzerine;"
+    },
+    {
+      "number": 195,
+      "text": "Açık parlak bir Arapça lisan ile."
+    },
+    {
+      "number": 196,
+      "text": "O, şüphesiz daha öncekilerin kitaplarında da vardı."
+    },
+    {
+      "number": 197,
+      "text": "İsrailoğulları bilginlerinin onu bilmesi, onlar için bir âyet (delil) değil midir?"
+    },
+    {
+      "number": 198,
+      "text": "Biz onu Arapça bilmeyenlerden birine indirseydik de, bunu o okusaydı, yine de ona iman etmezlerdi."
+    },
+    {
+      "number": 199,
+      "text": "Biz onu Arapça bilmeyenlerden birine indirseydik de, bunu o okusaydı, yine de ona iman etmezlerdi."
+    },
+    {
+      "number": 200,
+      "text": "Böylece onu günahkarların kalplerine soktuk. (okuyup anladılar, ama yine de) acıklı azabı görünceye kadar ona iman etmezler."
+    },
+    {
+      "number": 201,
+      "text": "Böylece onu günahkarların kalplerine soktuk. (okuyup anladılar, ama yine de) acıklı azabı görünceye kadar ona iman etmezler."
+    },
+    {
+      "number": 202,
+      "text": "İşte bu (azab) onlara, kendileri farkında olmadan, ansızın geliverecektir."
+    },
+    {
+      "number": 203,
+      "text": "O zaman \"Bize (iman etmemiz için) mühlet verilir mi acaba?... diyeceklerdir."
+    },
+    {
+      "number": 204,
+      "text": "(Oysa dünyada iken) Onlar bizim azabımızı çarçabuk istiyorlardı."
+    },
+    {
+      "number": 205,
+      "text": "Gördün ya artık onlara senelerce zevk ettirsek,"
+    },
+    {
+      "number": 206,
+      "text": "Sonra kendilerine vaad edilen (azab) gelip çatarsa,"
+    },
+    {
+      "number": 207,
+      "text": "O yaşadıkları zevkin kendilerine hiçbir faydası olmayacaktır."
+    },
+    {
+      "number": 208,
+      "text": "Bununla birlikte, biz hangi memleketi helak ettikse muhakkak onu uyarıcı (peygamberleri) olmuştur."
+    },
+    {
+      "number": 209,
+      "text": "(Onlar) ihtar edilmiştir ve biz zulmetmiş değiliz."
+    },
+    {
+      "number": 210,
+      "text": "Onu (Kur'ân'ı) şeytanlar indirmedi."
+    },
+    {
+      "number": 211,
+      "text": "Bu onlara hem yaraşmaz hem güçleri yetmez."
+    },
+    {
+      "number": 212,
+      "text": "Şüphesiz onlar vahyi işitmekten uzak tutulmuşlardır."
+    },
+    {
+      "number": 213,
+      "text": "O halde sakın Allah ile beraber başka tanrıya kulluk edip yalvarma, yoksa azaba uğratılanlardan olursun."
+    },
+    {
+      "number": 214,
+      "text": "(Önce) en yakın hısımlarını uyar."
+    },
+    {
+      "number": 215,
+      "text": "Ve sana uyan müminlere kanadını indir."
+    },
+    {
+      "number": 216,
+      "text": "Şayet sana karşı gelirlerse, de ki: \"Ben sizin yaptıklarınızdan muhakkak uzağım.\""
+    },
+    {
+      "number": 217,
+      "text": "Sen O, mutlak galip ve engin merhamet sahibine güvenip dayan."
+    },
+    {
+      "number": 218,
+      "text": "O ki, (gece namaza) kalktığın zaman seni görüyor."
+    },
+    {
+      "number": 219,
+      "text": "Ve secde edenler arasında dolaşmanı da (görüyor.)"
+    },
+    {
+      "number": 220,
+      "text": "Çünkü her şeyi işiten, her şeyi bilen O'dur."
+    },
+    {
+      "number": 221,
+      "text": "Şeytanların kime ineceğini size haber vereyim mi?"
+    },
+    {
+      "number": 222,
+      "text": "Onlar, günaha, iftiraya düşkün olan herkesin üzerine inerler."
+    },
+    {
+      "number": 223,
+      "text": "Onlar, (şeytanlara) kulak verirler ve onların çoğu yalancıdır."
+    },
+    {
+      "number": 224,
+      "text": "Şairler(e gelince), onlara da sapıklar uyar."
+    },
+    {
+      "number": 225,
+      "text": "Onların her vadide şaşkın şaşkın dolaştıklarını ve gerçekte yapmadıkları şeyleri söylediklerini görmedin mi?"
+    },
+    {
+      "number": 226,
+      "text": "Onların her vadide şaşkın şaşkın dolaştıklarını ve gerçekte yapmadıkları şeyleri söylediklerini görmedin mi?"
+    },
+    {
+      "number": 227,
+      "text": "Ancak iman edip iyi ameller işleyenler, Allah'ı çok çok ananlar ve haksızlığa uğratıldıklarında kendilerini savunanlar müstesna; haksızlık edenler, hangi dönüşe (hangi akibete) döndürüleceklerini yakında bileceklerdir."
+    }
+  ]
+}

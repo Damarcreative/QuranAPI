@@ -1,0 +1,914 @@
+{
+  "surah": 26,
+  "translation": "tr-transliteration",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "ṭâ-sîn-mîm."
+    },
+    {
+      "number": 2,
+      "text": "tilke âyâtü-lkitâbi-lmübîn."
+    },
+    {
+      "number": 3,
+      "text": "le`alleke bâḫi`un nefseke ellâ yekûnû mü'minîn."
+    },
+    {
+      "number": 4,
+      "text": "in neşe' nünezzil `aleyhim mine-ssemâi âyeten feżallet a`nâḳuhüm lehâ ḫâḍi`în."
+    },
+    {
+      "number": 5,
+      "text": "vemâ ye'tîhim min ẕikrim mine-rraḥmâni muḥdeŝin illâ kânû `anhü mü`riḍîn."
+    },
+    {
+      "number": 6,
+      "text": "feḳad keẕẕebû feseye'tîhim embâü mâ kânû bihî yestehziûn."
+    },
+    {
+      "number": 7,
+      "text": "evelem yerav ile-l'arḍi kem embetnâ fîhâ min külli zevcin kerîm."
+    },
+    {
+      "number": 8,
+      "text": "inne fî ẕâlike leâyeh. vemâ kâne ekŝeruhüm mü'minîn."
+    },
+    {
+      "number": 9,
+      "text": "veinne rabbeke lehüve-l`azîzü-rraḥîm."
+    },
+    {
+      "number": 10,
+      "text": "veiẕ nâdâ rabbüke mûsâ eni-'ti-lḳavme-żżâlimîn."
+    },
+    {
+      "number": 11,
+      "text": "ḳavme fir`avn. elâ yetteḳûn."
+    },
+    {
+      "number": 12,
+      "text": "ḳâle rabbi innî eḫâfü ey yükeẕẕibûn."
+    },
+    {
+      "number": 13,
+      "text": "veyeḍîḳu ṣadrî velâ yenṭaliḳu lisânî feersil ilâ hârûn."
+    },
+    {
+      "number": 14,
+      "text": "velehüm `aleyye ẕembün feeḫâfü ey yaḳtülûn."
+    },
+    {
+      "number": 15,
+      "text": "ḳâle kellâ. feẕhebâ biâyâtinâ innâ me`aküm müstemi`ûn."
+    },
+    {
+      "number": 16,
+      "text": "fe'tiyâ fir`avne feḳûlâ innâ rasûlü rabbi-l`âlemîn."
+    },
+    {
+      "number": 17,
+      "text": "en ersil me`anâ benî isrâîl."
+    },
+    {
+      "number": 18,
+      "text": "ḳâle elem nürabbike fînâ velîdev velebiŝte fînâ min `umürike sinîn."
+    },
+    {
+      "number": 19,
+      "text": "vefe`alte fa`leteke-lletî fe`alte veente mine-lkâfirîn."
+    },
+    {
+      "number": 20,
+      "text": "ḳâle fe`altühâ iẕev veenâ mine-ḍḍâllîn."
+    },
+    {
+      "number": 21,
+      "text": "feferartü minküm lemmâ ḫiftüküm fevehebe lî rabbî ḥukmev vece`alenî mine-lmürselîn."
+    },
+    {
+      "number": 22,
+      "text": "vetilke ni`metün temünnühâ `aleyye en `abbette benî isrâîl."
+    },
+    {
+      "number": 23,
+      "text": "ḳâle fir`avnü vemâ rabbü-l`âlemîn."
+    },
+    {
+      "number": 24,
+      "text": "ḳâle rabbü-ssemâvâti vel'arḍi vemâ beynehümâ. in küntüm mûḳinîn."
+    },
+    {
+      "number": 25,
+      "text": "ḳâle limen ḥavlehû elâ testemi`ûn."
+    },
+    {
+      "number": 26,
+      "text": "ḳâle rabbüküm verabbü âbâikümü-l'evvelîn."
+    },
+    {
+      "number": 27,
+      "text": "ḳâle inne rasûlekümü-lleẕî ürsile ileyküm lemecnûn."
+    },
+    {
+      "number": 28,
+      "text": "ḳâle rabbü-lmeşriḳi velmagribi vemâ beynehümâ. in küntüm ta`ḳilûn."
+    },
+    {
+      "number": 29,
+      "text": "ḳâle leini-tteḫaẕte ilâhen gayrî leec`alenneke mine-lmescûnîn."
+    },
+    {
+      "number": 30,
+      "text": "ḳâle evelev ci'tüke bişey'im mübîn."
+    },
+    {
+      "number": 31,
+      "text": "ḳâle fe'ti bihî in künte mine-ṣṣâdiḳîn."
+    },
+    {
+      "number": 32,
+      "text": "feelḳâ `aṣâhü feiẕâ hiye ŝü`bânüm mübîn."
+    },
+    {
+      "number": 33,
+      "text": "veneza`a yedehû feiẕâ hiye beyḍâü linnâżirîn."
+    },
+    {
+      "number": 34,
+      "text": "ḳâle lilmelei ḥavlehû inne hâẕâ lesâḥirun `alîm."
+    },
+    {
+      "number": 35,
+      "text": "yürîdü ey yuḫriceküm min arḍiküm bisiḥrih. femâẕâ te'mürûn."
+    },
+    {
+      "number": 36,
+      "text": "ḳâlû ercih veeḫâhü veb`aŝ fi-lmedâini ḥâşirîn."
+    },
+    {
+      "number": 37,
+      "text": "ye'tûke bikülli seḥḥârin `alîm."
+    },
+    {
+      "number": 38,
+      "text": "fecümi`a-sseḥaratü limîḳâti yevmim ma`lûm."
+    },
+    {
+      "number": 39,
+      "text": "veḳîle linnâsi hel entüm müctemi`ûn."
+    },
+    {
+      "number": 40,
+      "text": "le`allenâ nettebi`u-sseḥarate in kânû hümü-lgâlibîn."
+    },
+    {
+      "number": 41,
+      "text": "felemmâ câe-sseḥaratü ḳâlû lifir`avne einne lenâ leecran in künnâ naḥnü-lgâlibîn."
+    },
+    {
+      "number": 42,
+      "text": "ḳâle ne`am veinneküm iẕel lemine-lmüḳarrabîn."
+    },
+    {
+      "number": 43,
+      "text": "ḳâle lehüm mûsâ elḳû mâ entüm mülḳûn."
+    },
+    {
+      "number": 44,
+      "text": "feelḳav ḥibâlehüm ve`iṣiyyehüm veḳâlû bi`izzeti fir`avne innâ lenaḥnü-lgâlibûn."
+    },
+    {
+      "number": 45,
+      "text": "feelḳâ mûsâ `aṣâhü feiẕâ hiye telḳafü mâ ye'fikûn."
+    },
+    {
+      "number": 46,
+      "text": "feülḳiye-sseḥaratü sâcidîn."
+    },
+    {
+      "number": 47,
+      "text": "ḳâlû âmennâ birabbi-l`âlemîn."
+    },
+    {
+      "number": 48,
+      "text": "rabbi mûsâ vehârûn."
+    },
+    {
+      "number": 49,
+      "text": "ḳâle âmentüm lehû ḳable en âẕene leküm. innehû lekebîrukümü-lleẕî `allemekümü-ssiḥr. felesevfe ta`lemûn. leüḳaṭṭi`anne eydiyeküm veercüleküm min ḫilâfiv veleüṣallibenneküm ecme`în."
+    },
+    {
+      "number": 50,
+      "text": "ḳâlû lâ ḍayr. innâ ilâ rabbinâ münḳalibûn."
+    },
+    {
+      "number": 51,
+      "text": "innâ naṭme`u ey yagfira lenâ rabbünâ ḫaṭâyânâ en künnâ evvele-lmü'minîn."
+    },
+    {
+      "number": 52,
+      "text": "veevḥaynâ ilâ mûsâ en esri bi`ibâdî inneküm müttebe`ûn."
+    },
+    {
+      "number": 53,
+      "text": "feersele fir`avnü fi-lmedâini ḥâşirîn."
+    },
+    {
+      "number": 54,
+      "text": "inne hâülâi leşirẕimetün ḳalîlûn."
+    },
+    {
+      "number": 55,
+      "text": "veinnehüm lenâ legâiżûn."
+    },
+    {
+      "number": 56,
+      "text": "veinnâ lecemî`un ḥâẕirûn."
+    },
+    {
+      "number": 57,
+      "text": "feaḫracnâhüm min cennâtiv ve`uyûn."
+    },
+    {
+      "number": 58,
+      "text": "vekünûziv vemeḳâmin kerîm."
+    },
+    {
+      "number": 59,
+      "text": "keẕâlik. veevraŝnâhâ benî isrâîl."
+    },
+    {
+      "number": 60,
+      "text": "feetbe`ûhüm müşriḳîn."
+    },
+    {
+      "number": 61,
+      "text": "felemmâ terâe-lcem`âni ḳâle aṣḥâbü mûsâ innâ lemüdrakûn."
+    },
+    {
+      "number": 62,
+      "text": "ḳâle kellâ. inne me`iye rabbî seyehdîn."
+    },
+    {
+      "number": 63,
+      "text": "feevḥaynâ ilâ mûsâ eni-ḍrib bi`aṣâke-lbaḥr. fenfeleḳa fekâne küllü firḳin keṭṭavdi-l`ażîm."
+    },
+    {
+      "number": 64,
+      "text": "veezlefnâ ŝemme-l'âḫarîn."
+    },
+    {
+      "number": 65,
+      "text": "veenceynâ mûsâ vemem me`ahû ecme`în."
+    },
+    {
+      "number": 66,
+      "text": "ŝümme agraḳne-l'âḫarîn."
+    },
+    {
+      "number": 67,
+      "text": "inne fî ẕâlike leâyeh. vemâ kâne ekŝeruhüm mü'minîn."
+    },
+    {
+      "number": 68,
+      "text": "veinne rabbeke lehüve-l`azîzü-rraḥîm."
+    },
+    {
+      "number": 69,
+      "text": "vetlü `aleyhim nebee ibrâhîm."
+    },
+    {
+      "number": 70,
+      "text": "iẕ ḳâle liebîhi veḳavmihî mâ ta`büdûn."
+    },
+    {
+      "number": 71,
+      "text": "ḳâlû na`büdü aṣnâmen feneżallü lehâ `âkifîn."
+    },
+    {
+      "number": 72,
+      "text": "ḳâle hel yesme`ûneküm iẕ ted`ûn."
+    },
+    {
+      "number": 73,
+      "text": "ev yenfe`ûneküm ev yeḍurrûn."
+    },
+    {
+      "number": 74,
+      "text": "ḳâlû bel vecednâ âbâenâ keẕâlike yef`alûn."
+    },
+    {
+      "number": 75,
+      "text": "ḳâle eferaeytüm mâ küntüm ta`büdûn."
+    },
+    {
+      "number": 76,
+      "text": "entüm veâbâükümü-l'aḳdemûn."
+    },
+    {
+      "number": 77,
+      "text": "feinnehüm `adüvvül lî illâ rabbe-l`âlemîn."
+    },
+    {
+      "number": 78,
+      "text": "elleẕî ḫaleḳanî fehüve yehdîn."
+    },
+    {
+      "number": 79,
+      "text": "velleẕî hüve yuṭ`imünî veyesḳîn."
+    },
+    {
+      "number": 80,
+      "text": "veiẕâ meriḍtü fehüve yeşfîn."
+    },
+    {
+      "number": 81,
+      "text": "velleẕî yümîtünî ŝümme yuḥyîn."
+    },
+    {
+      "number": 82,
+      "text": "velleẕî aṭme`u ey yagfira lî ḫaṭîetî yevme-ddîn."
+    },
+    {
+      "number": 83,
+      "text": "rabbi heb lî ḥukmev veelḥiḳnî biṣṣâliḥîn."
+    },
+    {
+      "number": 84,
+      "text": "vec`al lî lisâne ṣidḳin fi-l'âḫirîn."
+    },
+    {
+      "number": 85,
+      "text": "vec`alnî miv veraŝeti cenneti-nne`îm."
+    },
+    {
+      "number": 86,
+      "text": "vagfir liebî innehû kâne mine-ḍḍâllîn."
+    },
+    {
+      "number": 87,
+      "text": "velâ tuḫzinî yevme yüb`aŝûn."
+    },
+    {
+      "number": 88,
+      "text": "yevme lâ yenfe`u mâlüv velâ benûn."
+    },
+    {
+      "number": 89,
+      "text": "illâ men ete-llâhe biḳalbin selîm."
+    },
+    {
+      "number": 90,
+      "text": "veüzlifeti-lcennetü lilmütteḳîn."
+    },
+    {
+      "number": 91,
+      "text": "vebürrizeti-lceḥîmü lilgâvîn."
+    },
+    {
+      "number": 92,
+      "text": "veḳîle lehüm eyne mâ küntüm ta`büdûn."
+    },
+    {
+      "number": 93,
+      "text": "min dûni-llâh. hel yenṣurûneküm ev yenteṣirûn."
+    },
+    {
+      "number": 94,
+      "text": "fekübkibû fîhâ hüm velgâvûn."
+    },
+    {
+      "number": 95,
+      "text": "vecünûdü iblîse ecme`ûn."
+    },
+    {
+      "number": 96,
+      "text": "ḳâlû vehüm fîhâ yaḫteṣimûn."
+    },
+    {
+      "number": 97,
+      "text": "tellâhi in künnâ lefî ḍalâlim mübîn."
+    },
+    {
+      "number": 98,
+      "text": "iẕ nüsevvîküm birabbi-l`âlemîn."
+    },
+    {
+      "number": 99,
+      "text": "vemâ eḍallenâ ille-lmücrimûn."
+    },
+    {
+      "number": 100,
+      "text": "femâ lenâ min şâfi`în."
+    },
+    {
+      "number": 101,
+      "text": "velâ ṣadîḳin ḥamîm."
+    },
+    {
+      "number": 102,
+      "text": "felev enne lenâ kerraten fenekûne mine-lmü'minîn."
+    },
+    {
+      "number": 103,
+      "text": "inne fî ẕâlike leâyeh. vemâ kâne ekŝeruhüm mü'minîn."
+    },
+    {
+      "number": 104,
+      "text": "veinne rabbeke lehüve-l`azîzü-rraḥîm."
+    },
+    {
+      "number": 105,
+      "text": "keẕẕebet ḳavmü nûḥin-lmürselîn."
+    },
+    {
+      "number": 106,
+      "text": "iẕ ḳâle lehüm eḫûhüm nûḥun elâ tetteḳûn."
+    },
+    {
+      "number": 107,
+      "text": "innî leküm rasûlün emîn."
+    },
+    {
+      "number": 108,
+      "text": "fetteḳu-llâhe veeṭî`ûn."
+    },
+    {
+      "number": 109,
+      "text": "vemâ es'elüküm `aleyhi min ecr. in ecriye illâ `alâ rabbi-l`âlemîn."
+    },
+    {
+      "number": 110,
+      "text": "fetteḳu-llâhe veeṭî`ûn."
+    },
+    {
+      "number": 111,
+      "text": "ḳâlû enü'minü leke vettebe`ake-l'erẕelûn."
+    },
+    {
+      "number": 112,
+      "text": "ḳâle vemâ `ilmî bimâ kânû ya`melûn."
+    },
+    {
+      "number": 113,
+      "text": "in ḥisâbühüm illâ `alâ rabbî lev teş`urûn."
+    },
+    {
+      "number": 114,
+      "text": "vemâ ene biṭâridi-lmü'minîn."
+    },
+    {
+      "number": 115,
+      "text": "in ene illâ neẕîrum mübîn."
+    },
+    {
+      "number": 116,
+      "text": "ḳâlû leil lem tentehi yâ nûḥu letekûnenne mine-lmercûmîn."
+    },
+    {
+      "number": 117,
+      "text": "ḳâle rabbi inne ḳavmî keẕẕebûn."
+    },
+    {
+      "number": 118,
+      "text": "feftaḥ beynî vebeynehüm fetḥav veneccinî vemem me`iye mine-lmü'minîn."
+    },
+    {
+      "number": 119,
+      "text": "feenceynâhü vemem me`ahû fi-lfülki-lmeşḥûn."
+    },
+    {
+      "number": 120,
+      "text": "ŝümme agraḳnâ ba`dü-lbâḳîn."
+    },
+    {
+      "number": 121,
+      "text": "inne fî ẕâlike leâyeh. vemâ kâne ekŝeruhüm mü'minîn."
+    },
+    {
+      "number": 122,
+      "text": "veinne rabbeke lehüve-l`azîzü-rraḥîm."
+    },
+    {
+      "number": 123,
+      "text": "keẕẕebet `âdün-lmürselîn."
+    },
+    {
+      "number": 124,
+      "text": "iẕ ḳâle lehüm eḫûhüm hûdün elâ tetteḳûn."
+    },
+    {
+      "number": 125,
+      "text": "innî leküm rasûlün emîn."
+    },
+    {
+      "number": 126,
+      "text": "fetteḳu-llâhe veeṭî`ûn."
+    },
+    {
+      "number": 127,
+      "text": "vemâ es'elüküm `aleyhi min ecr. in ecriye illâ `alâ rabbi-l`âlemîn."
+    },
+    {
+      "number": 128,
+      "text": "etebnûne bikülli rî`in âyeten ta`beŝûn."
+    },
+    {
+      "number": 129,
+      "text": "vetetteḫiẕûne meṣâni`a le`alleküm taḫlüdûn."
+    },
+    {
+      "number": 130,
+      "text": "veiẕâ beṭaştüm beṭaştüm cebbârîn."
+    },
+    {
+      "number": 131,
+      "text": "fetteḳu-llâhe veeṭî`ûn."
+    },
+    {
+      "number": 132,
+      "text": "vetteḳu-lleẕî emeddeküm bimâ ta`lemûn."
+    },
+    {
+      "number": 133,
+      "text": "emeddeküm bien`âmiv vebenîn."
+    },
+    {
+      "number": 134,
+      "text": "vecennâtiv ve`uyûn."
+    },
+    {
+      "number": 135,
+      "text": "innî eḫâfü `aleyküm `aẕâbe yevmin `ażîm."
+    },
+    {
+      "number": 136,
+      "text": "ḳâlû sevâün `aleynâ eve`ażte em lem teküm mine-lvâ`iżîn."
+    },
+    {
+      "number": 137,
+      "text": "in hâẕâ illâ ḫulüḳu-l'evvelîn."
+    },
+    {
+      "number": 138,
+      "text": "vemâ naḥnü bimü`aẕẕebîn."
+    },
+    {
+      "number": 139,
+      "text": "fekeẕẕebûhü feehleknâhüm. inne fî ẕâlike leâyeh. vemâ kâne ekŝeruhüm mü'minîn."
+    },
+    {
+      "number": 140,
+      "text": "veinne rabbeke lehüve-l`azîzü-rraḥîm."
+    },
+    {
+      "number": 141,
+      "text": "keẕẕebet ŝemûdü-lmürselîn."
+    },
+    {
+      "number": 142,
+      "text": "iẕ ḳâle lehüm eḫûhüm ṣâliḥun elâ tetteḳûn."
+    },
+    {
+      "number": 143,
+      "text": "innî leküm rasûlün emîn."
+    },
+    {
+      "number": 144,
+      "text": "fetteḳu-llâhe veeṭî`ûn."
+    },
+    {
+      "number": 145,
+      "text": "vemâ es'elüküm `aleyhi min ecr. in ecriye illâ `alâ rabbi-l`âlemîn."
+    },
+    {
+      "number": 146,
+      "text": "etütrakûne fî mâ hâhünâ âminîn."
+    },
+    {
+      "number": 147,
+      "text": "fî cennâtiv ve`uyûn."
+    },
+    {
+      "number": 148,
+      "text": "vezürû`iv venaḫlin ṭal`uhâ heḍîm."
+    },
+    {
+      "number": 149,
+      "text": "vetenḥitûne mine-lcibâli büyûten fârihîn."
+    },
+    {
+      "number": 150,
+      "text": "fetteḳu-llâhe veeṭî`ûn."
+    },
+    {
+      "number": 151,
+      "text": "velâ tüṭî`û emra-lmüsrifîn."
+    },
+    {
+      "number": 152,
+      "text": "elleẕîne yüfsidûne fi-l'arḍi velâ yuṣliḥûn."
+    },
+    {
+      "number": 153,
+      "text": "ḳâlû innemâ ente mine-lmüseḥḥarîn."
+    },
+    {
+      "number": 154,
+      "text": "mâ ente illâ beşerum miŝlünâ. fe'ti biâyetin in künte mine-ṣṣâdiḳîn."
+    },
+    {
+      "number": 155,
+      "text": "ḳâle hâẕihî nâḳatül lehâ şirbüv veleküm şirbü yevmim ma`lûm."
+    },
+    {
+      "number": 156,
+      "text": "velâ temessûhâ bisûin feye'ḫuẕeküm `aẕâbü yevmin `ażîm."
+    },
+    {
+      "number": 157,
+      "text": "fe`aḳarûhâ feaṣbeḥû nâdimîn."
+    },
+    {
+      "number": 158,
+      "text": "feeḫaẕehümü-l`aẕâb. inne fî ẕâlike leâyeh. vemâ kâne ekŝeruhüm mü'minîn."
+    },
+    {
+      "number": 159,
+      "text": "veinne rabbeke lehüve-l`azîzü-rraḥîm."
+    },
+    {
+      "number": 160,
+      "text": "keẕẕebet ḳavmü lûṭini-lmürselîn."
+    },
+    {
+      "number": 161,
+      "text": "iẕ ḳâle lehüm eḫûhüm lûṭun elâ tetteḳûn."
+    },
+    {
+      "number": 162,
+      "text": "innî leküm rasûlün emîn."
+    },
+    {
+      "number": 163,
+      "text": "fetteḳu-llâhe veeṭî`ûn."
+    },
+    {
+      "number": 164,
+      "text": "vemâ es'elüküm `aleyhi min ecr. in ecriye illâ `alâ rabbi-l`âlemîn."
+    },
+    {
+      "number": 165,
+      "text": "ete'tûne-ẕẕükrâne mine-l`âlemîn."
+    },
+    {
+      "number": 166,
+      "text": "veteẕerûne mâ ḫaleḳa leküm rabbüküm min ezvâciküm. bel entüm ḳavmün `âdûn."
+    },
+    {
+      "number": 167,
+      "text": "ḳâlû leil lem tentehi yâ lûṭu letekûnenne mine-lmuḫracîn."
+    },
+    {
+      "number": 168,
+      "text": "ḳâle innî li`ameliküm mine-lḳâlîn."
+    },
+    {
+      "number": 169,
+      "text": "rabbi neccinî veehlî mimmâ ya`melûn."
+    },
+    {
+      "number": 170,
+      "text": "fenecceynâhü veehlehû ecme`în."
+    },
+    {
+      "number": 171,
+      "text": "illâ `acûzen fi-lgâbirîn."
+    },
+    {
+      "number": 172,
+      "text": "ŝümme demmerne-l'âḫarîn."
+    },
+    {
+      "number": 173,
+      "text": "veemṭarnâ `aleyhim meṭarâ. fesâe meṭaru-lmünẕerîn."
+    },
+    {
+      "number": 174,
+      "text": "inne fî ẕâlike leâyeh. vemâ kâne ekŝeruhüm mü'minîn."
+    },
+    {
+      "number": 175,
+      "text": "veinne rabbeke lehüve-l`azîzü-rraḥîm."
+    },
+    {
+      "number": 176,
+      "text": "keẕẕebe aṣḥâbü-l'eyketi-lmürselîn."
+    },
+    {
+      "number": 177,
+      "text": "iẕ ḳâle lehüm şu`aybün elâ tetteḳûn."
+    },
+    {
+      "number": 178,
+      "text": "innî leküm rasûlün emîn."
+    },
+    {
+      "number": 179,
+      "text": "fetteḳu-llâhe veeṭî`ûn."
+    },
+    {
+      "number": 180,
+      "text": "vemâ es'elüküm `aleyhi min ecr. in ecriye illâ `alâ rabbi-l`âlemîn."
+    },
+    {
+      "number": 181,
+      "text": "evfü-lkeyle velâ tekûnû mine-lmuḫsirîn."
+    },
+    {
+      "number": 182,
+      "text": "vezinû bilḳisṭâsi-lmüsteḳîm."
+    },
+    {
+      "number": 183,
+      "text": "velâ tebḫasü-nnâse eşyâehüm velâ ta`ŝev fi-l'arḍi müfsidîn."
+    },
+    {
+      "number": 184,
+      "text": "vetteḳu-lleẕî ḫaleḳaküm velcibillete-l'evvelîn."
+    },
+    {
+      "number": 185,
+      "text": "ḳâlû innemâ ente mine-lmüseḥḥarîn."
+    },
+    {
+      "number": 186,
+      "text": "vemâ ente illâ beşer miŝlünâ vein neżunnüke lemine-lkâẕibîn."
+    },
+    {
+      "number": 187,
+      "text": "feesḳiṭ `aleynâ kisefem mine-ssemâi in künte mine-ṣṣâdiḳîn."
+    },
+    {
+      "number": 188,
+      "text": "ḳâle rabbî a`lemü bimâ ta`melûn."
+    },
+    {
+      "number": 189,
+      "text": "fekeẕẕebûhü feeḫaẕehüm `aẕâbü yevmi-żżulleh. innehû kâne `aẕâbe yevmin `ażîm."
+    },
+    {
+      "number": 190,
+      "text": "inne fî ẕâlike leâyeh. vemâ kâne ekŝeruhüm mü'minîn."
+    },
+    {
+      "number": 191,
+      "text": "veinne rabbeke lehüve-l`azîzü-rraḥîm."
+    },
+    {
+      "number": 192,
+      "text": "veinnehû letenzîlü rabbi-l`âlemîn."
+    },
+    {
+      "number": 193,
+      "text": "nezele bihi-rrûḥu-l'emîn."
+    },
+    {
+      "number": 194,
+      "text": "`alâ ḳalbike litekûne mine-lmünẕirîn."
+    },
+    {
+      "number": 195,
+      "text": "bilisânin `arabiyyim mübîn."
+    },
+    {
+      "number": 196,
+      "text": "veinnehû lefî zübüri-l'evvelîn."
+    },
+    {
+      "number": 197,
+      "text": "evelem yekül lehüm âyeten ey ya`lemehû `ulemâü benî isrâîl."
+    },
+    {
+      "number": 198,
+      "text": "velev nezzelnâhü `alâ ba`ḍi-l'a`cemîn."
+    },
+    {
+      "number": 199,
+      "text": "feḳara'ehû `aleyhim mâ kânû bihî mü'minîn."
+    },
+    {
+      "number": 200,
+      "text": "keẕâlike seleknâhü fî ḳulûbi-lmücrimîn."
+    },
+    {
+      "number": 201,
+      "text": "lâ yü'minûne bihî ḥattâ yeravu-l`aẕâbe-l'elîm."
+    },
+    {
+      "number": 202,
+      "text": "feye'tiyehüm bagtetev vehüm lâ yeş`urûn."
+    },
+    {
+      "number": 203,
+      "text": "feyeḳûlû hel naḥnü münżarûn."
+    },
+    {
+      "number": 204,
+      "text": "efebi`aẕâbinâ yesta`cilûn."
+    },
+    {
+      "number": 205,
+      "text": "eferaeyte im metta`nâhüm sinîn."
+    },
+    {
+      "number": 206,
+      "text": "ŝümme câehüm mâ kânû yû`adûn."
+    },
+    {
+      "number": 207,
+      "text": "mâ agnâ `anhüm mâ kânû yümette`ûn."
+    },
+    {
+      "number": 208,
+      "text": "vemâ ehleknâ min ḳaryetin illâ lehâ münẕirûn."
+    },
+    {
+      "number": 209,
+      "text": "ẕikrâ. vemâ künnâ żâlimîn."
+    },
+    {
+      "number": 210,
+      "text": "vemâ tenezzelet bihi-şşeyâṭîn."
+    },
+    {
+      "number": 211,
+      "text": "vemâ yembegî lehüm vemâ yesteṭî`ûn."
+    },
+    {
+      "number": 212,
+      "text": "innehüm `ani-ssem`i lema`zûlûn."
+    },
+    {
+      "number": 213,
+      "text": "felâ ted`u me`a-llâhi ilâhen âḫara fetekûne mine-lmü`aẕẕebîn."
+    },
+    {
+      "number": 214,
+      "text": "veenẕir `aşîrateke-l'aḳrabîn."
+    },
+    {
+      "number": 215,
+      "text": "vaḫfiḍ cenâḥake limeni-ttebe`ake mine-lmü'minîn."
+    },
+    {
+      "number": 216,
+      "text": "fein `aṣavke feḳul innî berîüm mimmâ ta`melûn."
+    },
+    {
+      "number": 217,
+      "text": "vetevekkel `ale-l`azîzi-rraḥîm."
+    },
+    {
+      "number": 218,
+      "text": "elleẕî yerâke ḥîne teḳûm."
+    },
+    {
+      "number": 219,
+      "text": "veteḳallübeke fi-ssâcidîn."
+    },
+    {
+      "number": 220,
+      "text": "innehû hüve-ssemî`u-l`alîm."
+    },
+    {
+      "number": 221,
+      "text": "hel ünebbiüküm `alâ men tenezzelü-şşeyâṭîn."
+    },
+    {
+      "number": 222,
+      "text": "tenezzelü `alâ külli effâkin eŝîm."
+    },
+    {
+      "number": 223,
+      "text": "yülḳûne-ssem`a veekŝeruhüm kâẕibûn."
+    },
+    {
+      "number": 224,
+      "text": "veşşu`arâü yettebi`uhümü-lgâvûn."
+    },
+    {
+      "number": 225,
+      "text": "elem tera ennehüm fî külli vâdiy yehîmûn."
+    },
+    {
+      "number": 226,
+      "text": "veennehüm yeḳûlûne mâ lâ yef`alûn."
+    },
+    {
+      "number": 227,
+      "text": "ille-lleẕîne âmenû ve`amilu-ṣṣâliḥâti veẕekerü-llâhe keŝîrav venteṣarû mim ba`di mâ żulimû. veseya`lemü-lleẕîne żalemû eyye münḳalebiy yenḳalibûn."
+    }
+  ]
+}
