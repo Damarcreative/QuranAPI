@@ -408,6 +408,8 @@ function renderResources() {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
+    console.log('DOM fully loaded, initializing scripts...');
+    setupMobileMenu();
     renderProjects();
     renderExperience();
     renderEducation();
@@ -415,6 +417,47 @@ document.addEventListener('DOMContentLoaded', () => {
     renderResources();
     initQuranApp();
 });
+
+function setupMobileMenu() {
+    const menuToggle = document.querySelector('.menu-toggle');
+    const navMenu = document.querySelector('.nav-menu');
+
+    console.log('Mobile menu setup:', { menuToggle, navMenu });
+
+    if (menuToggle && navMenu) {
+        // Remove any existing listeners to be safe (though not strictly necessary on page load)
+        const newToggle = menuToggle.cloneNode(true);
+        menuToggle.parentNode.replaceChild(newToggle, menuToggle);
+
+        newToggle.addEventListener('click', (e) => {
+            console.log('Hamburger clicked!');
+            e.stopPropagation(); // Prevent bubbling
+            newToggle.classList.toggle('active');
+            navMenu.classList.toggle('active');
+            console.log('Menu active state:', navMenu.classList.contains('active'));
+        });
+
+        // Close menu when clicking outside
+        document.addEventListener('click', (e) => {
+            if (!newToggle.contains(e.target) && !navMenu.contains(e.target) && navMenu.classList.contains('active')) {
+                console.log('Clicked outside, closing menu');
+                newToggle.classList.remove('active');
+                navMenu.classList.remove('active');
+            }
+        });
+
+        // Close menu when clicking a link
+        navMenu.querySelectorAll('.nav-link').forEach(link => {
+            link.addEventListener('click', () => {
+                console.log('Link clicked, closing menu');
+                newToggle.classList.remove('active');
+                navMenu.classList.remove('active');
+            });
+        });
+    } else {
+        console.error('Mobile menu elements not found!');
+    }
+}
 
 // --- Quran App Logic ---
 
