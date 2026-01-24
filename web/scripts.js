@@ -32,7 +32,7 @@ async function updateLocation() {
 
         if (!data) {
             console.log('Fetching new location data');
-            const response = await fetch('http://ip-api.com/json');
+            const response = await fetch('https://ip-api.com/json');
             data = await response.json();
 
             if (data.status === 'success') {
