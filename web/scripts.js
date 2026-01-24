@@ -15,7 +15,7 @@ updateClock();
 async function updateLocation() {
     const locationTextEls = document.querySelectorAll('.location-text');
     const countryEls = document.querySelectorAll('.country');
-    const CACHE_KEY = 'userLocationData';
+    const CACHE_KEY = 'userLocationData_v2';
     const CACHE_DURATION = 30 * 60 * 1000; // 30 minutes
 
     try {
@@ -32,10 +32,10 @@ async function updateLocation() {
 
         if (!data) {
             console.log('Fetching new location data');
-            const response = await fetch('https://ip-api.com/json');
+            const response = await fetch('https://ipwho.is/');
             data = await response.json();
 
-            if (data.status === 'success') {
+            if (data.success === true) {
                 localStorage.setItem(CACHE_KEY, JSON.stringify({
                     timestamp: Date.now(),
                     data: data
@@ -43,10 +43,10 @@ async function updateLocation() {
             }
         }
 
-        if (data && data.status === 'success') {
+        if (data && data.success === true) {
             // Update UI
             locationTextEls.forEach(el => {
-                el.innerText = `${data.city}, ${data.regionName || data.region}`;
+                el.innerText = `${data.city}, ${data.region}`;
             });
             countryEls.forEach(el => {
                 el.innerText = data.country;
@@ -54,7 +54,35 @@ async function updateLocation() {
         }
 
     } catch (error) {
-        console.error('Error fetching location:', error);
+        console.warn('Error fetching location from ipwho.is, trying fallback:', error);
+        try {
+            // Fallback to geojs.io
+            const response = await fetch('https://get.geojs.io/v1/ip/geo.json');
+            const data = await response.json();
+
+            // store fallback data in same structure
+            localStorage.setItem(CACHE_KEY, JSON.stringify({
+                timestamp: Date.now(),
+                data: {
+                    success: true,
+                    city: data.city,
+                    region: data.region,
+                    country: data.country
+                }
+            }));
+
+            // Update UI with fallback data
+            locationTextEls.forEach(el => {
+                el.innerText = `${data.city}, ${data.region}`;
+            });
+            countryEls.forEach(el => {
+                el.innerText = data.country;
+            });
+
+        } catch (fallbackError) {
+            console.error('All location fetches failed:', fallbackError);
+            // Optional: Set default "Earth" or similar if needed, or leave as is
+        }
     }
 }
 
