@@ -5,16 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
     <title>Quran API | DamarCreative</title>
-
     <meta name="description"
         content="Discover the Quran API of Damar Jati. A collection of UI/UX design and Front-End development projects, featuring LUI, Color Picker, and more.">
     <meta name="keywords"
         content="Quran API, Quran, API, Quran API, Quran API, Quran API, Quran API, Quran API, Quran API, Quran API">
     <meta name="author" content="Damar Jati">
     <meta name="robots" content="index, follow">
-
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://damarcreative.com/projects.html">
     <meta property="og:title" content="Quran API | DamarCreative">
@@ -24,9 +21,7 @@
     <meta name="twitter:title" content="Quran API | DamarCreative">
     <meta name="twitter:description"
         content="Quran API, a high-performance, open-source Quran API built for developers. Fast, reliable, and free for the Ummah.">
-
     <link rel="icon" href="favicon.svg" type="image/svg+xml">
-
     <meta name="theme-color" content="#000000">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -36,10 +31,8 @@
 </head>
 
 <body>
-
     <div class="cursor-dot"></div>
     <div class="cursor-outline"></div>
-
     <div class="page-wrapper">
         <header>
             <a href="index.html" class="logo-wrapper">
@@ -55,6 +48,7 @@
                 <a href="index.html" class="nav-link">Home</a>
                 <a href="quran.html" class="nav-link active">Quran</a>
                 <a href="docs.html" class="nav-link">API Docs</a>
+                <a href="about.html" class="nav-link">About</a>
 
                 <div class="mobile-social-links">
                     <a href="https://damarcreative.my.id/" target="_blank" class="social-link" aria-label="Portfolio">
@@ -94,7 +88,6 @@
                 <div class="country">Country</div>
             </div>
         </header>
-
         <main class="page-content">
             <h1 class="page-title">
                 <svg class="title-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 204.21 204.21">
@@ -108,23 +101,15 @@
                     </g>
                 </svg>QURAN<span class="accent">.</span>
             </h1>
-
-            <!-- Quran App Container -->
             <div id="quran-app">
-                <!-- Top Controls -->
                 <div class="quran-controls" style="margin-bottom: 2rem; display: flex; gap: 1rem; flex-wrap: wrap;">
                     <div class="search-box" style="flex: 1;">
                         <input type="text" id="search-surah" class="form-input" placeholder="Search Surah...">
                     </div>
                 </div>
-
-                <!-- View: Surah List -->
-                <div id="surah-list-view" class="resource-grid">
-                    <!-- Surah cards will be injected here -->
+                <div id="surah-list-view" class="surah-grid">
                     <div class="loader">Loading Quran Data...</div>
                 </div>
-
-                <!-- View: Reader -->
                 <div id="reader-view" style="display: none;">
                     <div class="reader-header"
                         style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--border-color); padding-bottom: 1rem; margin-bottom: 2rem;">
@@ -146,16 +131,12 @@
                             </select>
                         </div>
                     </div>
-
                     <div id="surah-header" style="text-align: center; margin-bottom: 3rem;">
                         <h2 id="current-surah-name" style="font-size: 2rem; color: var(--accent-green);"></h2>
                         <p id="current-surah-info" style="color: var(--text-muted);"></p>
                     </div>
-
                     <div id="ayah-container" class="ayah-list">
-                        <!-- Ayahs will be injected here -->
                     </div>
-
                     <div class="reader-footer" style="margin-top: 3rem; display: flex; justify-content: space-between;">
                         <button id="btn-prev-surah" class="btn-primary" style="display: none;">Previous Surah</button>
                         <button id="btn-next-surah" class="btn-primary" style="display: none;">Next Surah</button>
@@ -165,10 +146,7 @@
 
         </main>
     </div>
-
     <footer id="footer-marquee"></footer>
-
-    <!-- Templates -->
     <template id="tpl-surah-card">
         <a href="#" class="resource-card">
             <div class="resource-meta">
@@ -184,7 +162,6 @@
             </div>
         </a>
     </template>
-
     <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap" rel="stylesheet">
     <script src="scripts.js"></script>
 </body>

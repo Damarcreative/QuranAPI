@@ -137,23 +137,24 @@ function renderFooterMarquee() {
     <div class="footer-bottom">
       <div style="display: flex; flex-direction: column; gap: 0.5rem;">
         <p>Built with ❤️ for the Ummah.</p>
-        <p>© 2026 DamarCreative. Open Source.</p>
+        <p>Read. Reflect. Act.</p>
       </div>
       
-      <div class="footer-social-links" style="display: flex; gap: 1rem; align-items: center;">
-        <a href="https://damarcreative.my.id/" target="_blank" aria-label="Portfolio" style="color: inherit; transition: color 0.3s;" onmouseenter="this.style.color='var(--accent-green)'" onmouseleave="this.style.color='inherit'">
-             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
-        </a>
-        <a href="https://github.com/Damarcreative" target="_blank" aria-label="GitHub" style="color: inherit; transition: color 0.3s;" onmouseenter="this.style.color='var(--accent-green)'" onmouseleave="this.style.color='inherit'">
-             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
-        </a>
-        <a href="https://huggingface.co/Damarjati" target="_blank" aria-label="HuggingFace" style="color: inherit; transition: color 0.3s;" onmouseenter="this.style.color='var(--accent-green)'" onmouseleave="this.style.color='inherit'">
-             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12h.01"></path><path d="M15 12h.01"></path><path d="M10 16a3.5 3.5 0 0 0 4 0"></path><path d="M20.4 14a8 8 0 0 0-1.7-5.3 7 7 0 0 0-3.2-3.2 8.3 8.3 0 0 0-3.5-.5c-3.7 0-6.9 2.1-8.5 5.2a8 8 0 0 0-.5 3.8 8.4 8.4 0 0 0 1.2 3.6 8 8 0 0 0 .5 3.8c1.6 3.1 4.8 5.2 8.5 5.2 1.2 0 2.4-.2 3.5-.5a7 7 0 0 0 3.2-3.2 8 8 0 0 0 1.7-5.3"></path></svg>
-        </a>
-      </div>
+      
 
       <div class="footer-right">
-        <p>Read. Reflect. Act.</p>
+        <div class="footer-social-links" style="display: flex; gap: 1rem; justify-content: flex-end;">
+            <a href="https://damarcreative.my.id/" target="_blank" aria-label="Portfolio" style="color: inherit; transition: color 0.3s;" onmouseenter="this.style.color='var(--accent-green)'" onmouseleave="this.style.color='inherit'">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
+            </a>
+            <a href="https://github.com/Damarcreative" target="_blank" aria-label="GitHub" style="color: inherit; transition: color 0.3s;" onmouseenter="this.style.color='var(--accent-green)'" onmouseleave="this.style.color='inherit'">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
+            </a>
+            <a href="https://huggingface.co/Damarjati" target="_blank" aria-label="HuggingFace" style="color: inherit; transition: color 0.3s;" onmouseenter="this.style.color='var(--accent-green)'" onmouseleave="this.style.color='inherit'">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12h.01"></path><path d="M15 12h.01"></path><path d="M10 16a3.5 3.5 0 0 0 4 0"></path><path d="M20.4 14a8 8 0 0 0-1.7-5.3 7 7 0 0 0-3.2-3.2 8.3 8.3 0 0 0-3.5-.5c-3.7 0-6.9 2.1-8.5 5.2a8 8 0 0 0-.5 3.8 8.4 8.4 0 0 0 1.2 3.6 8 8 0 0 0 .5 3.8c1.6 3.1 4.8 5.2 8.5 5.2 1.2 0 2.4-.2 3.5-.5a7 7 0 0 0 3.2-3.2 8 8 0 0 0 1.7-5.3"></path></svg>
+            </a>
+        </div>
+        <p>© 2026 DamarCreative. Open Source.</p>
       </div>
     </div>
   `;
@@ -427,7 +428,46 @@ document.addEventListener('DOMContentLoaded', () => {
     renderAbout();
     renderResources();
     initQuranApp();
+    initEditionsModal();
+    initPlayground();
 });
+
+function initPlayground() {
+    const sendBtn = document.getElementById('playground-send');
+    const urlInput = document.getElementById('playground-url');
+    const outputContainer = document.getElementById('playground-output');
+    const codeBlock = document.getElementById('playground-code');
+
+    if (!sendBtn || !urlInput || !outputContainer || !codeBlock) return;
+
+    sendBtn.addEventListener('click', async () => {
+        const url = urlInput.value.trim();
+        if (!url) return;
+
+        // Visual feedback
+        sendBtn.textContent = '...';
+        sendBtn.disabled = true;
+        outputContainer.style.display = 'block';
+        codeBlock.textContent = 'Loading...';
+
+        try {
+            const start = Date.now();
+            const res = await fetch(url);
+            const data = await res.json();
+            const duration = Date.now() - start;
+
+            // Format JSON
+            codeBlock.textContent = JSON.stringify(data, null, 2);
+            codeBlock.style.color = 'var(--text-color)'; // Reset successful color
+        } catch (err) {
+            codeBlock.textContent = `Error: ${err.message}`;
+            codeBlock.style.color = '#ef4444'; // Red for error
+        } finally {
+            sendBtn.textContent = 'Send';
+            sendBtn.disabled = false;
+        }
+    });
+}
 
 function setupMobileMenu() {
     const menuToggle = document.querySelector('.menu-toggle');
@@ -470,9 +510,122 @@ function setupMobileMenu() {
     }
 }
 
+function initEditionsModal() {
+    const viewAllBtn = document.getElementById('view-all-editions');
+    const modal = document.getElementById('editions-modal');
+    const closeBtn = document.getElementById('close-modal');
+    const searchInput = document.getElementById('edition-search');
+    const grid = document.getElementById('editions-grid');
+
+    if (!viewAllBtn || !modal || !closeBtn || !searchInput || !grid) return;
+
+    // List of available editions (derived from file system)
+    const editions = [
+        'am-sadiq', 'ar-jalalayn', 'ar-muyassar', 'arabic', 'az-mammadaliyev', 'az-musayev',
+        'ber-mensur', 'bg-theophanov', 'bn-bengali', 'bn-hoque', 'bs-korkut', 'bs-mlivo',
+        'cs-hrbek', 'cs-nykl', 'de-aburida', 'de-bubenheim', 'de-khoury', 'de-zaidan',
+        'dv-divehi', 'en-ahmedali', 'en-ahmedraza', 'en-arberry', 'en-hilali', 'en-itani',
+        'en-maududi', 'en-mubarakpuri', 'en-pickthall', 'en-qarai', 'en-qaribullah',
+        'en-sahih', 'en-sarwar', 'en-shakir', 'en-transliteration', 'en-wahiduddin',
+        'en-yusufali', 'es-bornez', 'es-cortes', 'es-garcia', 'fa-ansarian', 'fa-ayati',
+        'fa-bahrampour', 'fa-fooladvand', 'fa-gharaati', 'fa-ghomshei', 'fa-khorramdel',
+        'fa-khorramshahi', 'fa-makarem', 'fa-moezzi', 'fa-mojtabavi', 'fa-sadeqi',
+        'fa-safavi', 'fr-hamidullah', 'ha-gumi', 'hi-farooq', 'hi-hindi', 'id-indonesian',
+        'id-jalalayn', 'id-muntakhab', 'it-piccardo', 'ja-japanese', 'ko-korean',
+        'ku-asan', 'ml-abdulhameed', 'ml-karakunnu', 'ms-basmeih', 'nl-keyzer',
+        'nl-leemhuis', 'nl-siregar', 'no-berg', 'pl-bielawskiego', 'ps-abdulwali',
+        'pt-elhayek', 'ro-grigore', 'ru-abuadel', 'ru-kalam', 'ru-krachkovsky',
+        'ru-kuliev-alsaadi', 'ru-kuliev', 'ru-muntahab', 'ru-osmanov', 'ru-porokhova',
+        'ru-sablukov', 'sd-amroti', 'so-abduh', 'sq-ahmeti', 'sq-mehdiu', 'sq-nahi',
+        'sv-bernstrom', 'sw-barwani', 'ta-tamil', 'tg-ayati', 'th-thai', 'tr-ates',
+        'tr-bulac', 'tr-diyanet', 'tr-golpinarli', 'tr-ozturk', 'tr-transliteration',
+        'tr-vakfi', 'tr-yazir', 'tr-yildirim', 'tr-yuksel', 'tt-nugman', 'ug-saleh',
+        'ur-ahmedali', 'ur-jalandhry', 'ur-jawadi', 'ur-junagarhi', 'ur-kanzuliman',
+        'ur-maududi', 'ur-najafi', 'ur-qadri', 'uz-sodik', 'zh-jian', 'zh-majian'
+    ];
+
+    // Render list function
+    const renderList = (filter = '') => {
+        grid.innerHTML = '';
+        const filtered = editions.filter(ed => ed.toLowerCase().includes(filter.toLowerCase()));
+
+        // Sort alphabetically
+        filtered.sort();
+
+        filtered.forEach(edition => {
+            const tag = document.createElement('div');
+            tag.className = 'edition-tag';
+
+            const textSpan = document.createElement('span');
+            textSpan.textContent = edition;
+            tag.appendChild(textSpan);
+
+            // SVG Icon
+            const iconSvg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+            iconSvg.setAttribute("width", "18");
+            iconSvg.setAttribute("height", "18");
+            iconSvg.setAttribute("viewBox", "0 0 256 256");
+            iconSvg.innerHTML = '<path fill="#888888" d="M216 34H88a6 6 0 0 0-6 6v42H40a6 6 0 0 0-6 6v128a6 6 0 0 0 6 6h128a6 6 0 0 0 6-6v-42h42a6 6 0 0 0 6-6V40a6 6 0 0 0-6-6m-54 176H46V94h116Zm48-48h-36V88a6 6 0 0 0-6-6H94V46h116Z"/>';
+
+            tag.appendChild(iconSvg);
+
+            // Optional: Copy to clipboard interaction or just visual
+            tag.title = 'Click to copy ID';
+            tag.addEventListener('click', () => {
+                navigator.clipboard.writeText(edition).then(() => {
+                    const originalText = textSpan.textContent;
+                    textSpan.textContent = 'Copied!';
+                    tag.style.borderColor = 'var(--accent-green)';
+                    iconSvg.querySelector('path').setAttribute('fill', 'var(--accent-green)');
+                    setTimeout(() => {
+                        textSpan.textContent = originalText;
+                        tag.style.borderColor = '';
+                        iconSvg.querySelector('path').setAttribute('fill', '#888888');
+                    }, 1000);
+                });
+            });
+
+            grid.appendChild(tag);
+        });
+    };
+
+    // Initial render
+    renderList();
+
+    // Event Listeners
+    viewAllBtn.addEventListener('click', () => {
+        modal.classList.add('active');
+        document.body.style.overflow = 'hidden'; // Prevent background scrolling
+    });
+
+    const closeModal = () => {
+        modal.classList.remove('active');
+        document.body.style.overflow = '';
+    };
+
+    closeBtn.addEventListener('click', closeModal);
+
+    // Close on clicking outside modal content
+    modal.addEventListener('click', (e) => {
+        if (e.target === modal) closeModal();
+    });
+
+    // Close on Escape key
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && modal.classList.contains('active')) {
+            closeModal();
+        }
+    });
+
+    // Search functionality
+    searchInput.addEventListener('input', (e) => {
+        renderList(e.target.value);
+    });
+}
+
 // --- Quran App Logic ---
 
-const QURAN_API_BASE = 'https://damarcreative.my.id/QuranAPI';
+const QURAN_API_BASE = 'https://quran-api.damarcreative.my.id/api';
 
 const quranState = {
     surahs: [],
@@ -501,8 +654,10 @@ async function initQuranApp() {
     };
 
     try {
-        const response = await fetch(`${QURAN_API_BASE}/surah-info.json`);
-        quranState.surahs = await response.json();
+        const response = await fetch(`${QURAN_API_BASE}/surah`);
+        const result = await response.json();
+        // New API returns { status: "success", data: [...] }
+        quranState.surahs = result.data || [];
         renderSurahList(quranState.surahs, dom);
         setupQuranEventListeners(dom);
     } catch (error) {
@@ -569,14 +724,18 @@ async function loadSurah(number, dom) {
 
     try {
         const [arabicRes, transRes] = await Promise.all([
-            fetch(`${QURAN_API_BASE}/surah/${number}/arabic.json`),
-            fetch(`${QURAN_API_BASE}/surah/${number}/${quranState.currentEdition}.json`)
+            fetch(`${QURAN_API_BASE}/surah/${number}/arabic`),
+            fetch(`${QURAN_API_BASE}/surah/${number}/${quranState.currentEdition}`)
         ]);
 
-        const arabicData = await arabicRes.json();
-        const transData = await transRes.json();
+        const arabicJson = await arabicRes.json();
+        const transJson = await transRes.json();
 
-        renderAyahs(arabicData.ayahs, transData.ayahs, dom);
+        // New API structure: { status: "success", data: { surah: X, ayahs: [...] } }
+        const arabicAyahs = arabicJson.data.ayahs;
+        const transAyahs = transJson.data.ayahs;
+
+        renderAyahs(arabicAyahs, transAyahs, dom);
     } catch (error) {
         dom.ayahContainer.innerHTML = '<p class="error">Failed to load Surah text.</p>';
     }
