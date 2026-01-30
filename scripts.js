@@ -654,10 +654,23 @@ async function initQuranApp() {
     };
 
     try {
-        const response = await fetch(`${QURAN_API_BASE}/surah`);
-        const result = await response.json();
-        // New API returns { status: "success", data: [...] }
-        quranState.surahs = result.data || [];
+        const CACHE_KEY = 'quran_surah_list';
+        const cachedData = localStorage.getItem(CACHE_KEY);
+
+        if (cachedData) {
+            console.log('Using cached Surah list');
+            quranState.surahs = JSON.parse(cachedData);
+        } else {
+            console.log('Fetching Surah list from API');
+            const response = await fetch(`${QURAN_API_BASE}/surah`);
+            const result = await response.json();
+            // New API returns { status: "success", data: [...] }
+            quranState.surahs = result.data || [];
+
+            // Save to local storage
+            localStorage.setItem(CACHE_KEY, JSON.stringify(quranState.surahs));
+        }
+
         renderSurahList(quranState.surahs, dom);
         setupQuranEventListeners(dom);
     } catch (error) {
@@ -723,21 +736,51 @@ async function loadSurah(number, dom) {
     }
 
     try {
-        const [arabicRes, transRes] = await Promise.all([
-            fetch(`${QURAN_API_BASE}/surah/${number}/arabic`),
-            fetch(`${QURAN_API_BASE}/surah/${number}/${quranState.currentEdition}`)
-        ]);
+        const arabicKey = `quran_surah_${number}_arabic`;
+        const transKey = `quran_surah_${number}_${quranState.currentEdition}`;
 
-        const arabicJson = await arabicRes.json();
-        const transJson = await transRes.json();
+        let arabicData = JSON.parse(localStorage.getItem(arabicKey));
+        let transData = JSON.parse(localStorage.getItem(transKey));
 
-        // New API structure: { status: "success", data: { surah: X, ayahs: [...] } }
-        const arabicAyahs = arabicJson.data.ayahs;
-        const transAyahs = transJson.data.ayahs;
+        const promises = [];
+
+        if (!arabicData) {
+            console.log(`Fetching Arabic for Surah ${number}`);
+            promises.push(
+                fetch(`${QURAN_API_BASE}/surah/${number}/arabic`)
+                    .then(res => res.json())
+                    .then(json => {
+                        arabicData = json.data; // Store the data object
+                        localStorage.setItem(arabicKey, JSON.stringify(arabicData));
+                    })
+            );
+        } else {
+            console.log(`Using cached Arabic for Surah ${number}`);
+        }
+
+        if (!transData) {
+            console.log(`Fetching Translation (${quranState.currentEdition}) for Surah ${number}`);
+            promises.push(
+                fetch(`${QURAN_API_BASE}/surah/${number}/${quranState.currentEdition}`)
+                    .then(res => res.json())
+                    .then(json => {
+                        transData = json.data; // Store the data object
+                        localStorage.setItem(transKey, JSON.stringify(transData));
+                    })
+            );
+        } else {
+            console.log(`Using cached Translation (${quranState.currentEdition}) for Surah ${number}`);
+        }
+
+        await Promise.all(promises);
+
+        const arabicAyahs = arabicData.ayahs;
+        const transAyahs = transData.ayahs;
 
         renderAyahs(arabicAyahs, transAyahs, dom);
     } catch (error) {
-        dom.ayahContainer.innerHTML = '<p class="error">Failed to load Surah text.</p>';
+        console.error("Error loading surah:", error);
+        dom.ayahContainer.innerHTML = '<p class="error">Failed to load Surah text. Please check connection.</p>';
     }
 }
 
